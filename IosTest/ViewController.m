@@ -179,11 +179,26 @@ int flag;
     NSLog(@"selected=%@", selected);
 }
 - (IBAction)flashAddToCartButton:(id)sender {
-    
+    NSString *message = @"Flash Item Added To Cart";
+    [self showToastMessage:message];
 }
 - (IBAction)homeAddToCartButton:(id)sender {
+    NSString *message = @"Home Item Added To Cart";
+    [self showToastMessage:message];
 }
-
-
+- (void)showToastMessage:(NSString*)message{
+    
+    UIAlertController *alert = [UIAlertController alertControllerWithTitle:nil message:message  preferredStyle:UIAlertControllerStyleActionSheet];
+    
+    [self presentViewController:alert animated:YES completion:nil];
+    
+    int duration = 3; // duration in seconds
+    
+    dispatch_after(dispatch_time(DISPATCH_TIME_NOW, duration * NSEC_PER_SEC), dispatch_get_main_queue(), ^{
+        
+        [alert dismissViewControllerAnimated:YES completion:nil];
+        
+    });
+}
 
 @end
