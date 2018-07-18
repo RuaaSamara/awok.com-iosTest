@@ -1,0 +1,800 @@
+{
+    "STATUS": {
+        "CODE": 200,
+        "MESSAGE": "OK",
+        "KEY": "TXijV3t2JZuflashs1en",
+        "LCR": 1531941603,
+        "SRV": "awok-db-55-03",
+        "MSRV": "awok-live-memcached-2"
+    },
+    "OUTPUT": {
+        "DATA": {
+            "ITEMS": [
+                      {
+                      "ID": "1400877",
+                      "LINKED_PROD_ID": "1332001",
+                      "LINKED_SECTION_CODE": "Other-Home-Appliances",
+                      "NAME": "Cindrella Indoor & Outdoor Portable Foldable Charcoal Barbecue Grill, JQ4",
+                      "SORT": "5",
+                      "IMAGE_FILE": "iblock-845-845e2a819a0bee447abbc50fdb93eb64.png",
+                      "ACTIVE_FROM": "2018-07-18 23:00:00",
+                      "ACTIVE_TO": "2018-07-18 23:59:59",
+                      "IMAGE": {
+                      "SRC": "https://m1.awokcdn.com/static/images/products/iblock-845-845e2a819a0bee447abbc50fdb93eb64.png/default-220x220.jpg"
+                      },
+                      "PRICES": {
+                      "PRICE_NEW": "19",
+                      "PRICE_OLD": "79",
+                      "DISCOUNT": "60",
+                      "PERCENT": "76"
+                      },
+                      "CART_DATA": {
+                      "SKU": "1332001",
+                      "UID": "18075b4f92e3a36f0",
+                      "SSID": "0c24165f2eb9d2d4b9c796d0e35d6a77"
+                      },
+                      "PRODUCT_LINK": "/Other-Home-Appliances/cindrella_indoor_outdoor_portable_foldable_charcoal_barbecue_grill_jq4/dp-1332001/",
+                      "STATE": "ACTIVE",
+                      "TIMER": {
+                      "D": "0",
+                      "H": "0",
+                      "I": "39",
+                      "S": "56"
+                      },
+                      "WEB_SALE": "Y"
+                      },
+                      {
+                      "ID": "1335636",
+                      "LINKED_PROD_ID": "1327641",
+                      "LINKED_SECTION_CODE": "mobile-phones",
+                      "NAME": "Apple iPhone X, 64GB, Space Gray",
+                      "SORT": "505",
+                      "IMAGE_FILE": "iblock-431-431de28e4c4fad5d10a365dd1d871a5a.png",
+                      "ACTIVE_FROM": "2019-12-25 13:50:00",
+                      "ACTIVE_TO": "2019-12-25 13:51:00",
+                      "IMAGE": {
+                      "SRC": "https://m1.awokcdn.com/static/images/products/iblock-431-431de28e4c4fad5d10a365dd1d871a5a.png/default-220x220.jpg"
+                      },
+                      "PRICES": {
+                      "PRICE_NEW": "729",
+                      "PRICE_OLD": "4499",
+                      "DISCOUNT": "3770",
+                      "PERCENT": "84"
+                      },
+                      "CART_DATA": {
+                      "SKU": "1327641",
+                      "UID": "18075b4f92e3a2264",
+                      "SSID": "329e037017a1207bee581b03fb3a2bae"
+                      },
+                      "PRODUCT_LINK": "/mobile-phones/apple_iphone_x_64gb_space_gray/dp-1327641/",
+                      "STATE": "UPCOMING",
+                      "POPUP": "https://ae.awok.com/api/pop/",
+                      "WEB_SALE": "N"
+                      },
+                      {
+                      "ID": "1371594",
+                      "LINKED_PROD_ID": "1244023",
+                      "LINKED_SECTION_CODE": "tablet-pcs",
+                      "NAME": "Apple iPad Pro, 32GB, Wi-Fi, 9.7 Inch, Rose Gold",
+                      "SORT": "500",
+                      "IMAGE_FILE": "iblock-f9a-f9aa781166caaf29681f4aef3564f6d7.png",
+                      "ACTIVE_FROM": "2020-05-21 12:03:00",
+                      "ACTIVE_TO": "2020-05-21 12:04:00",
+                      "IMAGE": {
+                      "SRC": "https://m1.awokcdn.com/static/images/products/iblock-f9a-f9aa781166caaf29681f4aef3564f6d7.png/default-220x220.jpg"
+                      },
+                      "PRICES": {
+                      "PRICE_NEW": "267",
+                      "PRICE_OLD": "2799",
+                      "DISCOUNT": "2532",
+                      "PERCENT": "91"
+                      },
+                      "CART_DATA": {
+                      "SKU": "1244023",
+                      "UID": "18075b4f92e3a2347",
+                      "SSID": "bbc0ccdda6f722d9ea5dd842c03d6eb3"
+                      },
+                      "PRODUCT_LINK": "/tablet-pcs/apple_ipad_pro_32gb_wi_fi_9_7_inch_rose_gold/dp-1244023/",
+                      "STATE": "UPCOMING",
+                      "POPUP": "https://ae.awok.com/api/pop/",
+                      "WEB_SALE": "N"
+                      },
+                      {
+                      "ID": "1368253",
+                      "LINKED_PROD_ID": "1360899",
+                      "LINKED_SECTION_CODE": "mobile-phones",
+                      "NAME": "Huawei Nova 3e, 64GB, 4G LTE, Dual Sim, Blue",
+                      "SORT": "500",
+                      "IMAGE_FILE": "iblock-4f5-4f5c059ed7195323ffb514cd1ed7619d.jpg",
+                      "ACTIVE_FROM": "2019-05-01 14:00:00",
+                      "ACTIVE_TO": "2019-05-01 14:01:00",
+                      "IMAGE": {
+                      "SRC": "https://m1.awokcdn.com/static/images/products/iblock-4f5-4f5c059ed7195323ffb514cd1ed7619d.jpg/default-220x220.jpg"
+                      },
+                      "PRICES": {
+                      "PRICE_NEW": "399",
+                      "PRICE_OLD": "1450",
+                      "DISCOUNT": "1051",
+                      "PERCENT": "73"
+                      },
+                      "CART_DATA": {
+                      "SKU": "1360899",
+                      "UID": "18075b4f92e3a23c0",
+                      "SSID": "c30d5e5a42f7fa4ef2090501a63790b9"
+                      },
+                      "PRODUCT_LINK": "/mobile-phones/huawei_nova_3e_64gb_4g_lte_dual_sim_blue/dp-1360899/",
+                      "STATE": "UPCOMING",
+                      "POPUP": "https://ae.awok.com/api/pop/",
+                      "WEB_SALE": "N"
+                      },
+                      {
+                      "ID": "1357953",
+                      "LINKED_PROD_ID": "1355900",
+                      "LINKED_SECTION_CODE": "mobile-phones",
+                      "NAME": "Samsung Galaxy S9, Dual Sim, 64GB, Midnight Black",
+                      "SORT": "500",
+                      "IMAGE_FILE": "iblock-c26-c269ebb83d47c0e6c0e7f259adca4ee7.jpg",
+                      "ACTIVE_FROM": "2019-03-08 13:45:00",
+                      "ACTIVE_TO": "2019-03-08 13:46:00",
+                      "VIDEO_ID": "5_-NKRVn7IQ",
+                      "IMAGE": {
+                      "SRC": "https://m1.awokcdn.com/static/images/products/iblock-c26-c269ebb83d47c0e6c0e7f259adca4ee7.jpg/default-220x220.jpg"
+                      },
+                      "PRICES": {
+                      "PRICE_NEW": "697",
+                      "PRICE_OLD": "3499",
+                      "DISCOUNT": "2802",
+                      "PERCENT": "81"
+                      },
+                      "CART_DATA": {
+                      "SKU": "1355900",
+                      "UID": "18075b4f92e3a2432",
+                      "SSID": "16e59311e9185de3258741ba5458d401"
+                      },
+                      "PRODUCT_LINK": "/mobile-phones/samsung_galaxy_s9_g960_dual_sim_64gb_midnight_black_2/dp-1355900/",
+                      "STATE": "UPCOMING",
+                      "POPUP": "https://ae.awok.com/api/pop/",
+                      "WEB_SALE": "N"
+                      },
+                      {
+                      "ID": "1366117",
+                      "LINKED_PROD_ID": "1365639",
+                      "LINKED_SECTION_CODE": "mobile-phones",
+                      "NAME": "Mi Xiaomi Mi Mix 2, 64GB, 4G LTE, Dual Sim, Black",
+                      "SORT": "450",
+                      "IMAGE_FILE": "iblock-ff0-ff0fd5f9d002f895e8fff9230b960626.jpg",
+                      "ACTIVE_FROM": "2019-04-19 09:53:00",
+                      "ACTIVE_TO": "2019-04-19 09:54:00",
+                      "IMAGE": {
+                      "SRC": "https://m1.awokcdn.com/static/images/products/iblock-ff0-ff0fd5f9d002f895e8fff9230b960626.jpg/default-220x220.jpg"
+                      },
+                      "PRICES": {
+                      "PRICE_NEW": "345",
+                      "PRICE_OLD": "1699",
+                      "DISCOUNT": "1354",
+                      "PERCENT": "80"
+                      },
+                      "CART_DATA": {
+                      "SKU": "1365639",
+                      "UID": "18075b4f92e3a2499",
+                      "SSID": "d24088c1af0dbc03f6c3051090365576"
+                      },
+                      "PRODUCT_LINK": "/mobile-phones/mi_xiaomi_mi_mix_2_64gb_4g_lte_dual_sim_black/dp-1365639/",
+                      "STATE": "UPCOMING",
+                      "POPUP": "https://ae.awok.com/api/pop/",
+                      "WEB_SALE": "N"
+                      },
+                      {
+                      "ID": "1343009",
+                      "LINKED_PROD_ID": "1336600",
+                      "LINKED_SECTION_CODE": "smart-watches-and-wearables",
+                      "NAME": "Apple Series 3 Smart Watch - 38mm Space Gray Aluminum Case with Black Sport Band, MQKV2",
+                      "SORT": "450",
+                      "IMAGE_FILE": "iblock-4c6-4c670b09e231590b62e38525a312e205.png",
+                      "ACTIVE_FROM": "2019-12-29 13:50:00",
+                      "ACTIVE_TO": "2019-12-29 13:51:00",
+                      "IMAGE": {
+                      "SRC": "https://m1.awokcdn.com/static/images/products/iblock-4c6-4c670b09e231590b62e38525a312e205.png/default-220x220.jpg"
+                      },
+                      "PRICES": {
+                      "PRICE_NEW": "145",
+                      "PRICE_OLD": "1700",
+                      "DISCOUNT": "1555",
+                      "PERCENT": "92"
+                      },
+                      "CART_DATA": {
+                      "SKU": "1336600",
+                      "UID": "18075b4f92e3a2500",
+                      "SSID": "7c6d614112811d012faf3057ebceecb5"
+                      },
+                      "PRODUCT_LINK": "/smart-watches-and-wearables/apple_series_3_smart_watch_gps_38mm_space_gray_aluminum_case_with_black_sport_band_mqkv2_2/dp-1336600/",
+                      "STATE": "UPCOMING",
+                      "POPUP": "https://ae.awok.com/api/pop/",
+                      "WEB_SALE": "N"
+                      },
+                      {
+                      "ID": "1346367",
+                      "LINKED_PROD_ID": "1328188",
+                      "LINKED_SECTION_CODE": "mobile-phones",
+                      "NAME": "Samsung Galaxy Note 8, 64GB, 4G LTE With 1 Year Warranty, Midnight Black",
+                      "SORT": "449",
+                      "IMAGE_FILE": "iblock-314-314afd5e9e723072b183d3fab5528c99.png",
+                      "ACTIVE_FROM": "2019-01-05 13:50:00",
+                      "ACTIVE_TO": "2019-01-05 13:51:00",
+                      "VIDEO_ID": "RKYjdTiMkXM",
+                      "IMAGE": {
+                      "SRC": "https://m1.awokcdn.com/static/images/products/iblock-314-314afd5e9e723072b183d3fab5528c99.png/default-220x220.jpg"
+                      },
+                      "PRICES": {
+                      "PRICE_NEW": "699",
+                      "PRICE_OLD": "3499",
+                      "DISCOUNT": "2800",
+                      "PERCENT": "81"
+                      },
+                      "CART_DATA": {
+                      "SKU": "1328188",
+                      "UID": "18075b4f92e3a256d",
+                      "SSID": "8b9b42614b5378d86e1de0cc16a515cf"
+                      },
+                      "PRODUCT_LINK": "/mobile-phones/samsung_galaxy_note_8_64gb_4g_lte_with_1_year_warranty_midnight_black/dp-1328188/",
+                      "STATE": "UPCOMING",
+                      "POPUP": "https://ae.awok.com/api/pop/",
+                      "WEB_SALE": "N"
+                      },
+                      {
+                      "ID": "1289700",
+                      "LINKED_PROD_ID": "1266720",
+                      "LINKED_SECTION_CODE": "Laptops-Notebooks",
+                      "NAME": "Dell 3552, Intel Celeron, 4GB RAM, 500GB HDD, DVD-RW, 15.6\" HD LED, Intel HD Graphics, DOS",
+                      "SORT": "400",
+                      "IMAGE_FILE": "iblock-e04-e0466ec490e91186c9ecaa86e91f8949.png",
+                      "ACTIVE_FROM": "2020-03-04 17:30:00",
+                      "ACTIVE_TO": "2020-03-04 17:31:00",
+                      "IMAGE": {
+                      "SRC": "https://m1.awokcdn.com/static/images/products/iblock-e04-e0466ec490e91186c9ecaa86e91f8949.png/default-220x220.jpg"
+                      },
+                      "PRICES": {
+                      "PRICE_NEW": "187",
+                      "PRICE_OLD": "1199",
+                      "DISCOUNT": "1012",
+                      "PERCENT": "85"
+                      },
+                      "CART_DATA": {
+                      "SKU": "1266720",
+                      "UID": "18075b4f92e3a25d5",
+                      "SSID": "f23bb7c01800eae6f90635ed9074ff68"
+                      },
+                      "PRODUCT_LINK": "/Laptops-Notebooks/dell_3552_intel_celeron_4gb_ram_500gb_hdd_dvd_rw_15_6_hd_led_intel_hd_graphics_dos/dp-1266720/",
+                      "STATE": "UPCOMING",
+                      "POPUP": "https://ae.awok.com/api/pop/",
+                      "WEB_SALE": "N"
+                      },
+                      {
+                      "ID": "1291992",
+                      "LINKED_PROD_ID": "1249106",
+                      "LINKED_SECTION_CODE": "mobile-phones",
+                      "NAME": "HTC One 10, 32GB, 4G LTE, Gold",
+                      "SORT": "300",
+                      "IMAGE_FILE": "iblock-069-06986ac301d933ab728e65565bc94905.png",
+                      "ACTIVE_FROM": "2019-12-31 23:59:00",
+                      "ACTIVE_TO": "2019-12-31 23:59:00",
+                      "IMAGE": {
+                      "SRC": "https://m1.awokcdn.com/static/images/products/iblock-069-06986ac301d933ab728e65565bc94905.png/default-220x220.jpg"
+                      },
+                      "PRICES": {
+                      "PRICE_NEW": "445",
+                      "PRICE_OLD": "2850",
+                      "DISCOUNT": "2405",
+                      "PERCENT": "85"
+                      },
+                      "CART_DATA": {
+                      "SKU": "1249106",
+                      "UID": "18075b4f92e3a261d",
+                      "SSID": "9936955c159951c80bf12d2d72bae5b7"
+                      },
+                      "PRODUCT_LINK": "/mobile-phones/htc_one_10_32gb_4g_lte_gold/dp-1249106/",
+                      "STATE": "UPCOMING",
+                      "POPUP": "https://ae.awok.com/api/pop/",
+                      "WEB_SALE": "N"
+                      },
+                      {
+                      "ID": "1409476",
+                      "LINKED_PROD_ID": "1336966",
+                      "LINKED_SECTION_CODE": "exercise-fitness-equipments",
+                      "NAME": "Beauty Body Mobile-Gym EMS Technology Muscle Stimulator For 6 Pack",
+                      "SORT": "10",
+                      "IMAGE_FILE": "iblock-f06-f06fd2b6d3abe649d14908930ef674f0.jpg",
+                      "ACTIVE_FROM": "2018-07-21 01:00:00",
+                      "ACTIVE_TO": "2018-07-21 02:00:00",
+                      "IMAGE": {
+                      "SRC": "https://m1.awokcdn.com/static/images/products/iblock-f06-f06fd2b6d3abe649d14908930ef674f0.jpg/default-220x220.jpg"
+                      },
+                      "PRICES": {
+                      "PRICE_NEW": "19",
+                      "PRICE_OLD": "89",
+                      "DISCOUNT": "70",
+                      "PERCENT": "79"
+                      },
+                      "CART_DATA": {
+                      "SKU": "1336966",
+                      "UID": "18075b4f92e3a2686",
+                      "SSID": "de07c4b3d79177cb69720d9e851bb695"
+                      },
+                      "PRODUCT_LINK": "/exercise-fitness-equipments/beauty_body_mobile_gym_ems_technology_muscle_stimulator_for_6_pack/dp-1336966/",
+                      "STATE": "UPCOMING",
+                      "POPUP": "https://ae.awok.com/api/pop/",
+                      "WEB_SALE": "Y"
+                      },
+                      {
+                      "ID": "1409423",
+                      "LINKED_PROD_ID": "1405178",
+                      "LINKED_SECTION_CODE": "general-tools",
+                      "NAME": "YDD Tech 45 Pcs Cordless Screwdriver 180RPM, KCS61",
+                      "SORT": "10",
+                      "IMAGE_FILE": "iblock-597-59702d0abfbb033baa109c4cbd636f35.png",
+                      "ACTIVE_FROM": "2018-07-20 01:00:00",
+                      "ACTIVE_TO": "2018-07-20 02:00:00",
+                      "IMAGE": {
+                      "SRC": "https://m1.awokcdn.com/static/images/products/iblock-597-59702d0abfbb033baa109c4cbd636f35.png/default-220x220.jpg"
+                      },
+                      "PRICES": {
+                      "PRICE_NEW": "39",
+                      "PRICE_OLD": "129",
+                      "DISCOUNT": "90",
+                      "PERCENT": "70"
+                      },
+                      "CART_DATA": {
+                      "SKU": "1405178",
+                      "UID": "18075b4f92e3a26ff",
+                      "SSID": "b60cf72d0a7d9f9181adc998beff8922"
+                      },
+                      "PRODUCT_LINK": "/general-tools/ydd_tech_45_pcs_cordless_screwdriver_180rpm_kcs61/dp-1405178/",
+                      "STATE": "UPCOMING",
+                      "POPUP": "https://ae.awok.com/api/pop/",
+                      "WEB_SALE": "Y"
+                      },
+                      {
+                      "ID": "1409396",
+                      "LINKED_PROD_ID": "1336924",
+                      "LINKED_SECTION_CODE": "mobile-phones",
+                      "NAME": "Samsung Galaxy J3 (2016) J320F, 4G Dual Sim, Gold – Refurbished",
+                      "SORT": "10",
+                      "IMAGE_FILE": "iblock-89b-89bfa98d92d11d97bcef2eb1594f7d17.png",
+                      "ACTIVE_FROM": "2018-07-20 03:00:00",
+                      "ACTIVE_TO": "2018-07-20 04:00:00",
+                      "IMAGE": {
+                      "SRC": "https://m1.awokcdn.com/static/images/products/iblock-89b-89bfa98d92d11d97bcef2eb1594f7d17.png/default-220x220.jpg"
+                      },
+                      "PRICES": {
+                      "PRICE_NEW": "225",
+                      "PRICE_OLD": "700",
+                      "DISCOUNT": "475",
+                      "PERCENT": "68"
+                      },
+                      "CART_DATA": {
+                      "SKU": "1336924",
+                      "UID": "18075b4f92e3a2769",
+                      "SSID": "f183511ebac3c398c7a1a1ee20a6ceae"
+                      },
+                      "PRODUCT_LINK": "/mobile-phones/samsung_galaxy_j3_2016_j320f_4g_dual_sim_gold_refurbished/dp-1336924/",
+                      "STATE": "UPCOMING",
+                      "POPUP": "https://ae.awok.com/api/pop/",
+                      "WEB_SALE": "Y"
+                      },
+                      {
+                      "ID": "1401833",
+                      "LINKED_PROD_ID": "1275303",
+                      "LINKED_SECTION_CODE": "mobile-phones",
+                      "NAME": "KAGOO K02, Dual Sim, Dual Cam, 5\" IPS, Gold",
+                      "SORT": "10",
+                      "IMAGE_FILE": "iblock-ea3-ea3d74ed98b92e524db5d38601ff6335.png",
+                      "ACTIVE_FROM": "2018-07-19 03:00:00",
+                      "ACTIVE_TO": "2018-07-19 04:00:00",
+                      "IMAGE": {
+                      "SRC": "https://m1.awokcdn.com/static/images/products/iblock-ea3-ea3d74ed98b92e524db5d38601ff6335.png/default-220x220.jpg"
+                      },
+                      "PRICES": {
+                      "PRICE_NEW": "89",
+                      "PRICE_OLD": "335",
+                      "DISCOUNT": "246",
+                      "PERCENT": "74"
+                      },
+                      "CART_DATA": {
+                      "SKU": "1275303",
+                      "UID": "18075b4f92e3a27d1",
+                      "SSID": "23bc4502dafd0f567766f6af886c58e0"
+                      },
+                      "PRODUCT_LINK": "/mobile-phones/kagoo_k02_dual_sim_dual_cam_5_ips_gold/dp-1275303/",
+                      "STATE": "UPCOMING",
+                      "POPUP": "https://ae.awok.com/api/pop/",
+                      "WEB_SALE": "Y"
+                      },
+                      {
+                      "ID": "1401786",
+                      "LINKED_PROD_ID": "1393515",
+                      "LINKED_SECTION_CODE": "air-coolers-fans",
+                      "NAME": "Personal Space Air Conditioner Fan Air Cooler with 7 Color LED Light Purify & Humidiry, USB Charger",
+                      "SORT": "10",
+                      "IMAGE_FILE": "iblock-c5b-c5b6a5c8f527317e994dc878f360fd67.png",
+                      "ACTIVE_FROM": "2018-07-21 07:00:00",
+                      "ACTIVE_TO": "2018-07-21 08:00:00",
+                      "IMAGE": {
+                      "SRC": "https://m1.awokcdn.com/static/images/products/iblock-c5b-c5b6a5c8f527317e994dc878f360fd67.png/default-220x220.jpg"
+                      },
+                      "PRICES": {
+                      "PRICE_NEW": "85",
+                      "PRICE_OLD": "199",
+                      "DISCOUNT": "114",
+                      "PERCENT": "58"
+                      },
+                      "CART_DATA": {
+                      "SKU": "1393515",
+                      "UID": "18075b4f92e3a283c",
+                      "SSID": "0fc93e729cc8db9c217075a41a38b581"
+                      },
+                      "PRODUCT_LINK": "/air-coolers-fans/personal_space_air_conditioner_fan_air_cooler_with_7_color_led_light_purify_humidiry_usb_charger/dp-1393515/",
+                      "STATE": "UPCOMING",
+                      "POPUP": "https://ae.awok.com/api/pop/",
+                      "WEB_SALE": "Y"
+                      },
+                      {
+                      "ID": "1401762",
+                      "LINKED_PROD_ID": "1341196",
+                      "LINKED_SECTION_CODE": "pc-laptop-accessories",
+                      "NAME": "Gold Spark WiFi Smart Net Camera, Lens 3.6MM ,View Your World From Anywhere/Anytime, Support For iPhone, iPad, Computer & Android, A8",
+                      "SORT": "10",
+                      "IMAGE_FILE": "iblock-1f9-1f93232b43e16008e6d452fbcbcc0055.png",
+                      "ACTIVE_FROM": "2018-07-21 04:00:00",
+                      "ACTIVE_TO": "2018-07-21 05:00:00",
+                      "IMAGE": {
+                      "SRC": "https://m1.awokcdn.com/static/images/products/iblock-1f9-1f93232b43e16008e6d452fbcbcc0055.png/default-220x220.jpg"
+                      },
+                      "PRICES": {
+                      "PRICE_NEW": "65",
+                      "PRICE_OLD": "199",
+                      "DISCOUNT": "134",
+                      "PERCENT": "68"
+                      },
+                      "CART_DATA": {
+                      "SKU": "1341196",
+                      "UID": "18075b4f92e3a28a4",
+                      "SSID": "e373965add4dce2da95d7f9c627f2b2b"
+                      },
+                      "PRODUCT_LINK": "/pc-laptop-accessories/gold_spark_wifi_smart_net_camera_lens_3_6mm_view_your_world_from_anywhere_anytime_support_for_iph_2/dp-1341196/",
+                      "STATE": "UPCOMING",
+                      "POPUP": "https://ae.awok.com/api/pop/",
+                      "WEB_SALE": "Y"
+                      },
+                      {
+                      "ID": "1401518",
+                      "LINKED_PROD_ID": "3657",
+                      "LINKED_SECTION_CODE": "mobile-phones",
+                      "NAME": "Apple iPhone 4 16GB White - Refurbished",
+                      "SORT": "10",
+                      "IMAGE_FILE": "iblock-598-598d09de2b43c018c3d393c9ecfae585.png",
+                      "ACTIVE_FROM": "2018-07-19 05:00:00",
+                      "ACTIVE_TO": "2018-07-19 06:00:00",
+                      "VIDEO_ID": "RVIxXBKesvg",
+                      "IMAGE": {
+                      "SRC": "https://m1.awokcdn.com/static/images/products/iblock-598-598d09de2b43c018c3d393c9ecfae585.png/default-220x220.jpg"
+                      },
+                      "PRICES": {
+                      "PRICE_NEW": "199",
+                      "PRICE_OLD": "1199",
+                      "DISCOUNT": "1000",
+                      "PERCENT": "84"
+                      },
+                      "CART_DATA": {
+                      "SKU": "3657",
+                      "UID": "18075b4f92e3a290a",
+                      "SSID": "0fd4ecd343a955d00a0f5e9f38e3ce17"
+                      },
+                      "PRODUCT_LINK": "/mobile-phones/apple_iphone_4_16gb_white_refurbished_2/dp-3657/",
+                      "STATE": "UPCOMING",
+                      "POPUP": "https://ae.awok.com/api/pop/",
+                      "WEB_SALE": "Y"
+                      },
+                      {
+                      "ID": "1401444",
+                      "LINKED_PROD_ID": "235625",
+                      "LINKED_SECTION_CODE": "bangles",
+                      "NAME": "Nilanjan Arts 22K Real Gold Plated Handmade Bangles 2 Pieces Multi-Design, DC19",
+                      "SORT": "10",
+                      "IMAGE_FILE": "iblock-1ad-1adce60920aab4d8803a5011ef185f67.png",
+                      "ACTIVE_FROM": "2018-07-20 04:00:00",
+                      "ACTIVE_TO": "2018-07-20 05:00:00",
+                      "IMAGE": {
+                      "SRC": "https://m1.awokcdn.com/static/images/products/iblock-1ad-1adce60920aab4d8803a5011ef185f67.png/default-220x220.jpg"
+                      },
+                      "PRICES": {
+                      "PRICE_NEW": "49",
+                      "PRICE_OLD": "275",
+                      "DISCOUNT": "226",
+                      "PERCENT": "83"
+                      },
+                      "CART_DATA": {
+                      "SKU": "235625",
+                      "UID": "18075b4f92e3a2970",
+                      "SSID": "6e556530ef9d93ffca00ae2353c57e26"
+                      },
+                      "PRODUCT_LINK": "/bangles/nilanjan_arts_22k_real_gold_plated_handmade_bangles_2_pieces_multi_design_dc19/dp-235625/",
+                      "STATE": "UPCOMING",
+                      "POPUP": "https://ae.awok.com/api/pop/",
+                      "WEB_SALE": "Y"
+                      },
+                      {
+                      "ID": "1400907",
+                      "LINKED_PROD_ID": "231528",
+                      "LINKED_SECTION_CODE": "mobile-phones",
+                      "NAME": "Sony Xperia Z1, C6903, 16GB, 4G LTE, Black - Refurbished",
+                      "SORT": "10",
+                      "IMAGE_FILE": "iblock-c45-c45850011833936ac96a8d60651196e0.png",
+                      "ACTIVE_FROM": "2018-07-20 07:00:00",
+                      "ACTIVE_TO": "2018-07-20 08:00:00",
+                      "IMAGE": {
+                      "SRC": "https://m1.awokcdn.com/static/images/products/iblock-c45-c45850011833936ac96a8d60651196e0.png/default-220x220.jpg"
+                      },
+                      "PRICES": {
+                      "PRICE_NEW": "299",
+                      "PRICE_OLD": "1350",
+                      "DISCOUNT": "1051",
+                      "PERCENT": "78"
+                      },
+                      "CART_DATA": {
+                      "SKU": "231528",
+                      "UID": "18075b4f92e3a29d8",
+                      "SSID": "664b313f0a5d9b0f789130ef0a39c5d8"
+                      },
+                      "PRODUCT_LINK": "/mobile-phones/sony_xperia_z1_c6903_16gb_4g_lte_black_refurbished/dp-231528/",
+                      "STATE": "UPCOMING",
+                      "POPUP": "https://ae.awok.com/api/pop/",
+                      "WEB_SALE": "Y"
+                      },
+                      {
+                      "ID": "1397547",
+                      "LINKED_PROD_ID": "1335110",
+                      "LINKED_SECTION_CODE": "Laptops-Notebooks",
+                      "NAME": "HP Notebook 210 G1, Intel Core i3 Processor, 4GB RAM, 320GB HDD, 11.6 Inch Screen, Web Camera, Windows 8 , Silver-Refurbished",
+                      "SORT": "10",
+                      "IMAGE_FILE": "iblock-726-72681da53dd1139f04253495c7955680.png",
+                      "ACTIVE_FROM": "2018-07-20 06:00:00",
+                      "ACTIVE_TO": "2018-07-20 07:00:00",
+                      "IMAGE": {
+                      "SRC": "https://m1.awokcdn.com/static/images/products/iblock-726-72681da53dd1139f04253495c7955680.png/default-220x220.jpg"
+                      },
+                      "PRICES": {
+                      "PRICE_NEW": "515",
+                      "PRICE_OLD": "1299",
+                      "DISCOUNT": "784",
+                      "PERCENT": "61"
+                      },
+                      "CART_DATA": {
+                      "SKU": "1335110",
+                      "UID": "18075b4f92e3a2ab0",
+                      "SSID": "72d31bf1fcdc8a57f43c4edd53450191"
+                      },
+                      "PRODUCT_LINK": "/Laptops-Notebooks/hp_notebook_210_g1_intel_core_i3_processor_4gb_ram_320gb_hdd_11_6_inch_screen_web_camera_windows__2_3_4_5/dp-1335110/",
+                      "STATE": "UPCOMING",
+                      "POPUP": "https://ae.awok.com/api/pop/",
+                      "WEB_SALE": "Y"
+                      },
+                      {
+                      "ID": "1397544",
+                      "LINKED_PROD_ID": "1336072",
+                      "LINKED_SECTION_CODE": "mobile-phones",
+                      "NAME": "Apple iPhone 5C 16GB, White - Refurbished",
+                      "SORT": "10",
+                      "IMAGE_FILE": "iblock-584-584d5cd737bc442bc911275d7bd9e7aa.png",
+                      "ACTIVE_FROM": "2018-07-21 06:00:00",
+                      "ACTIVE_TO": "2018-07-21 07:00:00",
+                      "IMAGE": {
+                      "SRC": "https://m1.awokcdn.com/static/images/products/iblock-584-584d5cd737bc442bc911275d7bd9e7aa.png/default-220x220.jpg"
+                      },
+                      "PRICES": {
+                      "PRICE_NEW": "359",
+                      "PRICE_OLD": "1040",
+                      "DISCOUNT": "681",
+                      "PERCENT": "66"
+                      },
+                      "CART_DATA": {
+                      "SKU": "1336072",
+                      "UID": "18075b4f92e3a2b19",
+                      "SSID": "18e8feb876c501daf9189d9f1e2ec548"
+                      },
+                      "PRODUCT_LINK": "/mobile-phones/apple_iphone_5c_16gb_white_refurbished_2/dp-1336072/",
+                      "STATE": "UPCOMING",
+                      "POPUP": "https://ae.awok.com/api/pop/",
+                      "WEB_SALE": "Y"
+                      },
+                      {
+                      "ID": "1365257",
+                      "LINKED_PROD_ID": "1314002",
+                      "LINKED_SECTION_CODE": "mobile-phones",
+                      "NAME": "Samsung Galaxy J5 J500F, 4G Dual Sim, White - Refurbished",
+                      "SORT": "10",
+                      "IMAGE_FILE": "iblock-718-7187987829e9b7cc47a84d9887fc8eb4.png",
+                      "ACTIVE_FROM": "2018-07-21 05:00:00",
+                      "ACTIVE_TO": "2018-07-21 06:00:00",
+                      "IMAGE": {
+                      "SRC": "https://m1.awokcdn.com/static/images/products/iblock-718-7187987829e9b7cc47a84d9887fc8eb4.png/default-220x220.jpg"
+                      },
+                      "PRICES": {
+                      "PRICE_NEW": "299",
+                      "PRICE_OLD": "899",
+                      "DISCOUNT": "600",
+                      "PERCENT": "67"
+                      },
+                      "CART_DATA": {
+                      "SKU": "1314002",
+                      "UID": "18075b4f92e3a2b7e",
+                      "SSID": "bfd3ba51f1ce6650d5ffb6a90e788d0c"
+                      },
+                      "PRODUCT_LINK": "/mobile-phones/samsung_galaxy_j5_j500f_4g_dual_sim_white_refurbished_2/dp-1314002/",
+                      "STATE": "UPCOMING",
+                      "POPUP": "https://ae.awok.com/api/pop/",
+                      "WEB_SALE": "Y"
+                      },
+                      {
+                      "ID": "1363501",
+                      "LINKED_PROD_ID": "1314001",
+                      "LINKED_SECTION_CODE": "mobile-phones",
+                      "NAME": "Samsung Galaxy J5 J500F, 4G Dual Sim, Black - Refurbished",
+                      "SORT": "10",
+                      "IMAGE_FILE": "iblock-67b-67b07f3362978ab6e3ed44b530e590c5.png",
+                      "ACTIVE_FROM": "2018-07-19 06:00:00",
+                      "ACTIVE_TO": "2018-07-19 07:00:00",
+                      "IMAGE": {
+                      "SRC": "https://m1.awokcdn.com/static/images/products/iblock-67b-67b07f3362978ab6e3ed44b530e590c5.png/default-220x220.jpg"
+                      },
+                      "PRICES": {
+                      "PRICE_NEW": "299",
+                      "PRICE_OLD": "899",
+                      "DISCOUNT": "600",
+                      "PERCENT": "67"
+                      },
+                      "CART_DATA": {
+                      "SKU": "1314001",
+                      "UID": "18075b4f92e3a2be4",
+                      "SSID": "2f9a6757487321a4c7d8b65d406efd7e"
+                      },
+                      "PRODUCT_LINK": "/mobile-phones/samsung_galaxy_j5_j500f_4g_dual_sim_black_refurbished_2/dp-1314001/",
+                      "STATE": "UPCOMING",
+                      "POPUP": "https://ae.awok.com/api/pop/",
+                      "WEB_SALE": "Y"
+                      },
+                      {
+                      "ID": "1359052",
+                      "LINKED_PROD_ID": "1282683",
+                      "LINKED_SECTION_CODE": "mobile-phones",
+                      "NAME": "Apple iPhone 6 64GB Gold - Refurbished\t",
+                      "SORT": "10",
+                      "IMAGE_FILE": "iblock-d4f-d4f88b8768343d62b84d5ea4f394113d.png",
+                      "ACTIVE_FROM": "2018-07-20 05:00:00",
+                      "ACTIVE_TO": "2018-07-20 06:00:00",
+                      "IMAGE": {
+                      "SRC": "https://m1.awokcdn.com/static/images/products/iblock-d4f-d4f88b8768343d62b84d5ea4f394113d.png/default-220x220.jpg"
+                      },
+                      "PRICES": {
+                      "PRICE_NEW": "799",
+                      "PRICE_OLD": "2899",
+                      "DISCOUNT": "2100",
+                      "PERCENT": "73"
+                      },
+                      "CART_DATA": {
+                      "SKU": "1282683",
+                      "UID": "18075b4f92e3a2c59",
+                      "SSID": "90f09faf2e67e7463fd8331bce79ec6b"
+                      },
+                      "PRODUCT_LINK": "/mobile-phones/apple_iphone_6_64gb_gold_refurbished__2/dp-1282683/",
+                      "STATE": "UPCOMING",
+                      "POPUP": "https://ae.awok.com/api/pop/",
+                      "WEB_SALE": "Y"
+                      },
+                      {
+                      "ID": "1351726",
+                      "LINKED_PROD_ID": "1321726",
+                      "LINKED_SECTION_CODE": "other-mobile-accessories",
+                      "NAME": "AnyCast HDMI Dongle WIFI Displayer Receiver",
+                      "SORT": "10",
+                      "IMAGE_FILE": "iblock-a9d-a9d0b67057db09de43ab2a6ed8a0bf9b.png",
+                      "ACTIVE_FROM": "2018-07-19 07:00:00",
+                      "ACTIVE_TO": "2018-07-19 08:00:00",
+                      "IMAGE": {
+                      "SRC": "https://m1.awokcdn.com/static/images/products/iblock-a9d-a9d0b67057db09de43ab2a6ed8a0bf9b.png/default-220x220.jpg"
+                      },
+                      "PRICES": {
+                      "PRICE_NEW": "37",
+                      "PRICE_OLD": "129",
+                      "DISCOUNT": "92",
+                      "PERCENT": "72"
+                      },
+                      "CART_DATA": {
+                      "SKU": "1321726",
+                      "UID": "18075b4f92e3a2cfb",
+                      "SSID": "a5ef62c9f45642acdfd77d7de81e604f"
+                      },
+                      "PRODUCT_LINK": "/other-mobile-accessories/anycast_hdmi_dongle_wifi_displayer_receiver/dp-1321726/",
+                      "STATE": "UPCOMING",
+                      "POPUP": "https://ae.awok.com/api/pop/",
+                      "WEB_SALE": "Y"
+                      },
+                      {
+                      "ID": "1338765",
+                      "LINKED_PROD_ID": "346806",
+                      "LINKED_SECTION_CODE": "mobile-phones",
+                      "NAME": "Samsung Galaxy Note 3 N9005, Rose Gold White - Refurbished",
+                      "SORT": "10",
+                      "IMAGE_FILE": "iblock-85a-85ab43db928bef90afbcf0f8196f6f52.png",
+                      "ACTIVE_FROM": "2018-07-21 03:00:00",
+                      "ACTIVE_TO": "2018-07-21 04:00:00",
+                      "IMAGE": {
+                      "SRC": "https://m1.awokcdn.com/static/images/products/iblock-85a-85ab43db928bef90afbcf0f8196f6f52.png/default-220x220.jpg"
+                      },
+                      "PRICES": {
+                      "PRICE_NEW": "449",
+                      "PRICE_OLD": "1850",
+                      "DISCOUNT": "1401",
+                      "PERCENT": "76"
+                      },
+                      "CART_DATA": {
+                      "SKU": "346806",
+                      "UID": "18075b4f92e3a2db2",
+                      "SSID": "e45e26a7087f1bad65f14b87d6ad896b"
+                      },
+                      "PRODUCT_LINK": "/mobile-phones/samsung_galaxy_note_3_n9005_rose_gold_white_refurbished_2/dp-346806/",
+                      "STATE": "UPCOMING",
+                      "POPUP": "https://ae.awok.com/api/pop/",
+                      "WEB_SALE": "Y"
+                      },
+                      {
+                      "ID": "1295322",
+                      "LINKED_PROD_ID": "1239436",
+                      "LINKED_SECTION_CODE": "car-camera-system",
+                      "NAME": "Lichi Night Vision Car Camcorder Lens 1080p, 140 Degree Wide Angle Lens, 2.7 Inch Screen, Advanced Portable, LC103",
+                      "SORT": "10",
+                      "IMAGE_FILE": "iblock-a9c-a9c9107e7a7361490289e240cd3e81e8.png",
+                      "ACTIVE_FROM": "2018-07-19 01:00:00",
+                      "ACTIVE_TO": "2018-07-19 02:00:00",
+                      "IMAGE": {
+                      "SRC": "https://m1.awokcdn.com/static/images/products/iblock-a9c-a9c9107e7a7361490289e240cd3e81e8.png/default-220x220.jpg"
+                      },
+                      "PRICES": {
+                      "PRICE_NEW": "29",
+                      "PRICE_OLD": "199",
+                      "DISCOUNT": "170",
+                      "PERCENT": "86"
+                      },
+                      "CART_DATA": {
+                      "SKU": "1239436",
+                      "UID": "18075b4f92e3a2ded",
+                      "SSID": "305c7ac8d74fc3c1bd881a12657422ee"
+                      },
+                      "PRODUCT_LINK": "/car-camera-system/lichi_car_camcorder_lens_1080p_140_degree_wide_angle_lens_2_7_inch_screen_night_vision_advanced_port/dp-1239436/",
+                      "STATE": "UPCOMING",
+                      "POPUP": "https://ae.awok.com/api/pop/",
+                      "WEB_SALE": "Y"
+                      }
+                      ],
+            "TITLE": "Flash Sale"
+        },
+        "NAVIGATION": {
+            "TOTAL": 27,
+            "COUNT": 100,
+            "PAGE": 1,
+            "MAX_PAGES": 1
+        }
+    },
+    "API": {
+        "MIN_APP_VER": 170,
+        "MIN_APP_VERSION": 170,
+        "VERSION": 1.1,
+        "FORMAT": "JSON",
+        "LANG": "en",
+        "CURRENCY": "AED",
+        "CURRENCY_SYM": "AED",
+        "URI": {
+            "SOURCE": "/api/flash/",
+            "PARSED": "/api/flash/index.php"
+        }
+    }
+}

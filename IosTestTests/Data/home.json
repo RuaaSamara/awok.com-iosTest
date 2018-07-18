@@ -1,0 +1,1747 @@
+{
+    "API": {
+        "MIN_APP_VER": "170",
+        "MIN_APP_VERSION": "170",
+        "VERSION": "1.1",
+        "FORMAT": "JSON",
+        "LANG": "en",
+        "CURRENCY": "AED",
+        "CURRENCY_SYM": "AED",
+        "URI": {
+            "SOURCE": "/api/home/",
+            "PARSED": "/api/home/index.php"
+        }
+    },
+    "STATUS": {
+        "CODE": 200,
+        "MESSAGE": "OK"
+    },
+    "OUTPUT": {
+        "DATA": {
+            "BANNERS": [
+                        {
+                        "ID": "1082",
+                        "ACTION": "",
+                        "IMAGE": "https://m1.awokcdn.com/upload/rk/221/22118993689db85ba335441dec335424.jpg",
+                        "LINK": "830",
+                        "IMAGE_ALT": "Home & Kitchen Essentials"
+                        },
+                        {
+                        "ID": "1071",
+                        "ACTION": "",
+                        "IMAGE": "https://m4.awokcdn.com/upload/rk/da8/da86cddf7e68c69a68685e2b629a8abd.jpg",
+                        "LINK": "962",
+                        "IMAGE_ALT": "Jewellery"
+                        },
+                        {
+                        "ID": "1063",
+                        "ACTION": "",
+                        "IMAGE": "https://m2.awokcdn.com/upload/rk/0e0/0e00525dfd35db478bb246ce3a8d6b79.jpg",
+                        "LINK": "582",
+                        "IMAGE_ALT": "Mobile Phones"
+                        },
+                        {
+                        "ID": "1053",
+                        "ACTION": "",
+                        "IMAGE": "https://m4.awokcdn.com/upload/rk/81b/81b8d665faace4de3d1b5e68a511eaa4.jpg",
+                        "LINK": "744",
+                        "IMAGE_ALT": "Laptops & Notebooks"
+                        },
+                        {
+                        "ID": "1044",
+                        "ACTION": "",
+                        "IMAGE": "https://m2.awokcdn.com/upload/rk/cb7/cb7fdb185a38041e81e93e6040b2c309.jpg",
+                        "LINK": "1025",
+                        "IMAGE_ALT": "Toys & Games"
+                        },
+                        {
+                        "ID": "1037",
+                        "ACTION": "",
+                        "IMAGE": "https://m1.awokcdn.com/upload/rk/9ed/9ed33952fd0b5d543c0cc644ec6a6ea7.jpg",
+                        "LINK": "747",
+                        "IMAGE_ALT": "Tablets"
+                        }
+                        ],
+            "SECTIONS": [
+                         {
+                         "NAME": "Seasonal Sale",
+                         "IMAGE": "https://m1.awokcdn.com/bitrix/templates/awok-app/components/dev-app/offers.list/.awok/images/icon_flash_sale.png",
+                         "LINK": "type=flash-sale",
+                         "COLOR": "0,172,193"
+                         },
+                         {
+                         "NAME": "Bundle Offers",
+                         "IMAGE": "https://m1.awokcdn.com/bitrix/templates/awok-app/components/dev-app/offers.list/.awok/images/bundle_offers_icon.png",
+                         "LINK": "type=bundle-offers",
+                         "COLOR": "56,142,60"
+                         },
+                         {
+                         "NAME": "All Offers",
+                         "IMAGE": "https://m1.awokcdn.com/bitrix/templates/awok-app/components/dev-app/offers.list/.awok/images/all_offers_icon.png",
+                         "COLOR": "126,87,194"
+                         },
+                         {
+                         "NAME": "All Categories",
+                         "IMAGE": "https://m1.awokcdn.com/bitrix/templates/awok-app/components/dev-app/offers.list/.awok/images/all_cat_icon.png",
+                         "COLOR": "115,115,115"
+                         }
+                         ],
+            "MENU_KEY": "593574f104b4b1919f9d1b4dc450ee8910",
+            "ITEMS": [
+                      {
+                      "ID": "1401581",
+                      "LINKED_PROD_ID": "1401581",
+                      "NAME": "Nova T808 Smartphone, Dual Sim, 3.5\" IPS, Blue",
+                      "SORT": "6100",
+                      "ACTIVE_TO": "19.07.2018 14:00:00",
+                      "ACTIVE_FROM": "18.07.2018 14:00:00",
+                      "DETAIL_LINK": "/mobile-phones/nova_t808_smartphone_dual_sim_3_5_ips_blue_2/dp-1401581/",
+                      "MAX_QUANTITY": null,
+                      "IMAGE": {
+                      "ID": "1169650",
+                      "SRC": "https://m2.awokcdn.com/upload/resize_cache/iblock/2fe/250_250_1/2fef0b55ff79b1ff04270086c6a18e7c.png",
+                      "WIDTH": 250,
+                      "HEIGHT": 250
+                      },
+                      "PRICES": {
+                      "PRICE_NEW": 5,
+                      "PRICE_OLD": 215,
+                      "DISCOUNT": 210,
+                      "PERCENT": 98,
+                      "TIMER": {},
+                      "END_TIME": {}
+                      },
+                      "STATE": "ACTIVE",
+                      "ENABLE_TIMER": "Y",
+                      "SOLD_OUT": null,
+                      "SHOW_DISCOUNT": "Y",
+                      "SHOW_NEXT_TIMER": null,
+                      "ANALYTICS": false,
+                      "STOCK_DATA": false,
+                      "CART_DATA": {
+                      "SKU": "1401581",
+                      "UID": "18075b4f931a35f5a",
+                      "SSID": "3b3408ee41709a4e1ce1798bc4bb9448"
+                      },
+                      "TYPE_PRODUCT": "SP",
+                      "STOCK": "Y",
+                      "EXPIRED": "N",
+                      "ACTIVE": "Y",
+                      "CATEGORY_ID": "",
+                      "COLOR": {
+                      "B-COLOR": "#f3fff5",
+                      "BDR-COLOR": "#38c54f"
+                      }
+                      },
+                      {
+                      "ID": "429276",
+                      "LINKED_PROD_ID": "429276",
+                      "NAME": "LILENG Portable Rechargeable Multi-Function Fan, 830",
+                      "SORT": "6000",
+                      "ACTIVE_TO": "19.07.2018 14:00:00",
+                      "ACTIVE_FROM": "18.07.2018 14:00:00",
+                      "DETAIL_LINK": "/air-coolers-fans/lileng_portable_rechargeable_multi_function_fan_830/dp-429276/",
+                      "MAX_QUANTITY": null,
+                      "IMAGE": {
+                      "ID": "241242",
+                      "SRC": "https://m4.awokcdn.com/upload/resize_cache/iblock/22f/250_250_1/22ff57739b9d9f46542a9d18f339c7cb.png",
+                      "WIDTH": 250,
+                      "HEIGHT": 250
+                      },
+                      "PRICES": {
+                      "PRICE_NEW": 1,
+                      "PRICE_OLD": 149,
+                      "DISCOUNT": 148,
+                      "PERCENT": 100,
+                      "TIMER": {},
+                      "END_TIME": {}
+                      },
+                      "STATE": "ACTIVE",
+                      "ENABLE_TIMER": "Y",
+                      "SOLD_OUT": null,
+                      "SHOW_DISCOUNT": "Y",
+                      "SHOW_NEXT_TIMER": null,
+                      "ANALYTICS": false,
+                      "STOCK_DATA": false,
+                      "CART_DATA": {
+                      "SKU": "429276",
+                      "UID": "18075b4f931a3770c",
+                      "SSID": "8f83c1d63bb7a7e9442899b109792c88"
+                      },
+                      "TYPE_PRODUCT": "SP",
+                      "STOCK": "Y",
+                      "EXPIRED": "N",
+                      "ACTIVE": "Y",
+                      "CATEGORY_ID": ""
+                      },
+                      {
+                      "ID": "1409103",
+                      "LINKED_PROD_ID": "1409103",
+                      "NAME": "Multifunction 8 In 1 Electric Automatic Tread Rewind Sewing Machine, SM-202",
+                      "SORT": "5100",
+                      "ACTIVE_TO": "19.07.2018 08:00:00",
+                      "ACTIVE_FROM": "18.07.2018 20:00:00",
+                      "DETAIL_LINK": "/Other-Home-Appliances/multifunction_8_in_1_electric_automatic_tread_rewind_sewing_machine_sm_202_2/dp-1409103/",
+                      "MAX_QUANTITY": null,
+                      "IMAGE": {
+                      "ID": "1262912",
+                      "SRC": "https://m1.awokcdn.com/upload/resize_cache/iblock/4ca/250_250_1/4ca80ee1446d474fb633d2efe8329694.png",
+                      "WIDTH": 250,
+                      "HEIGHT": 250
+                      },
+                      "PRICES": {
+                      "PRICE_NEW": 1,
+                      "PRICE_OLD": 149,
+                      "DISCOUNT": 148,
+                      "PERCENT": 100,
+                      "TIMER": {},
+                      "END_TIME": {}
+                      },
+                      "STATE": "ACTIVE",
+                      "ENABLE_TIMER": "Y",
+                      "SOLD_OUT": null,
+                      "SHOW_DISCOUNT": "Y",
+                      "SHOW_NEXT_TIMER": null,
+                      "ANALYTICS": false,
+                      "STOCK_DATA": false,
+                      "CART_DATA": {
+                      "SKU": "1409103",
+                      "UID": "18075b4f931a386e7",
+                      "SSID": "6b02e3a1c8ec7c510f873b4156a2244f"
+                      },
+                      "TYPE_PRODUCT": "SP",
+                      "STOCK": "Y",
+                      "EXPIRED": "N",
+                      "ACTIVE": "Y",
+                      "CATEGORY_ID": ""
+                      },
+                      {
+                      "ID": "1313514",
+                      "LINKED_PROD_ID": "1313514",
+                      "NAME": "Universal Multi-Color Portable 10,400 mAh Power Bank For Smartphones, Z10",
+                      "SORT": "5000",
+                      "ACTIVE_TO": "19.07.2018 08:00:00",
+                      "ACTIVE_FROM": "18.07.2018 20:00:00",
+                      "DETAIL_LINK": "/power-banks/universal_multi_color_portable_10_400_mah_power_bank_for_smartphones_z10_2/dp-1313514/",
+                      "MAX_QUANTITY": null,
+                      "IMAGE": {
+                      "ID": "540054",
+                      "SRC": "https://m4.awokcdn.com/upload/resize_cache/iblock/097/250_250_1/0975d21a850b4e6bfbdb1b51a5680f02.png",
+                      "WIDTH": 250,
+                      "HEIGHT": 250
+                      },
+                      "PRICES": {
+                      "PRICE_NEW": 1,
+                      "PRICE_OLD": 99,
+                      "DISCOUNT": 98,
+                      "PERCENT": 99,
+                      "TIMER": {},
+                      "END_TIME": {}
+                      },
+                      "STATE": "ACTIVE",
+                      "ENABLE_TIMER": "Y",
+                      "SOLD_OUT": null,
+                      "SHOW_DISCOUNT": "Y",
+                      "SHOW_NEXT_TIMER": null,
+                      "ANALYTICS": false,
+                      "STOCK_DATA": false,
+                      "CART_DATA": {
+                      "SKU": "1313514",
+                      "UID": "18075b4f931a3978c",
+                      "SSID": "c2d0b793fe5b8211bbc690e67cfc96b1"
+                      },
+                      "TYPE_PRODUCT": "SP",
+                      "STOCK": "Y",
+                      "EXPIRED": "N",
+                      "ACTIVE": "Y",
+                      "CATEGORY_ID": ""
+                      },
+                      {
+                      "ID": "1331041",
+                      "LINKED_PROD_ID": "1331041",
+                      "NAME": "Intex Foot Air Pump For Toys & Air Beds, 69611",
+                      "SORT": "3785",
+                      "ACTIVE_TO": "31.12.2020 23:59:00",
+                      "ACTIVE_FROM": "18.07.2018 07:33:00",
+                      "DETAIL_LINK": "/exercise-fitness/intex_foot_air_pump_for_toys_air_beds_69611/dp-1331041/",
+                      "MAX_QUANTITY": null,
+                      "IMAGE": {
+                      "ID": "592504",
+                      "SRC": "https://m4.awokcdn.com/upload/resize_cache/iblock/f68/250_250_1/f68032978c7072941ad8ab110bb1a57c.png",
+                      "WIDTH": 250,
+                      "HEIGHT": 250
+                      },
+                      "PRICES": {
+                      "PRICE_NEW": 19,
+                      "PRICE_OLD": 50,
+                      "DISCOUNT": 31,
+                      "PERCENT": 62,
+                      "TIMER": {},
+                      "END_TIME": {}
+                      },
+                      "STATE": "ACTIVE",
+                      "ENABLE_TIMER": "Y",
+                      "SOLD_OUT": null,
+                      "SHOW_DISCOUNT": "Y",
+                      "SHOW_NEXT_TIMER": null,
+                      "ANALYTICS": false,
+                      "STOCK_DATA": false,
+                      "CART_DATA": {
+                      "SKU": "1331041",
+                      "UID": "18075b4f931a3a72c",
+                      "SSID": "eaf9351ab9e7936776e005ad7d756d1a"
+                      },
+                      "TYPE_PRODUCT": "SP",
+                      "STOCK": "Y",
+                      "EXPIRED": "N",
+                      "ACTIVE": "Y",
+                      "CATEGORY_ID": ""
+                      },
+                      {
+                      "ID": "1346402",
+                      "LINKED_PROD_ID": "1346402",
+                      "NAME": "Lixada Solar Power Wireless LED Wall Lamp, L0511",
+                      "SORT": "3785",
+                      "ACTIVE_TO": "31.12.2020 23:59:00",
+                      "ACTIVE_FROM": "18.07.2018 06:57:00",
+                      "DETAIL_LINK": "/torch-emergency-lights/lixada_solar_power_wireless_led_wall_lamp_l0511/dp-1346402/",
+                      "MAX_QUANTITY": null,
+                      "IMAGE": {
+                      "ID": "839189",
+                      "SRC": "https://m4.awokcdn.com/upload/resize_cache/iblock/5ee/250_250_1/5ee5be7f3efaf26750b34fb454ef0017.png",
+                      "WIDTH": 250,
+                      "HEIGHT": 250
+                      },
+                      "PRICES": {
+                      "PRICE_NEW": 15,
+                      "PRICE_OLD": 49,
+                      "DISCOUNT": 34,
+                      "PERCENT": 70,
+                      "TIMER": {},
+                      "END_TIME": {}
+                      },
+                      "STATE": "ACTIVE",
+                      "ENABLE_TIMER": "Y",
+                      "SOLD_OUT": null,
+                      "SHOW_DISCOUNT": "Y",
+                      "SHOW_NEXT_TIMER": null,
+                      "ANALYTICS": false,
+                      "STOCK_DATA": false,
+                      "CART_DATA": {
+                      "SKU": "1346402",
+                      "UID": "18075b4f931a3b51b",
+                      "SSID": "4f085c7bead5009606e240d82844d4ba"
+                      },
+                      "TYPE_PRODUCT": "SP",
+                      "STOCK": "Y",
+                      "EXPIRED": "N",
+                      "ACTIVE": "Y",
+                      "CATEGORY_ID": ""
+                      },
+                      {
+                      "ID": "516398",
+                      "LINKED_PROD_ID": "516398",
+                      "NAME": "Mobile Phone 3D Video Amplifier Enlarged Screen Magnifier, F1",
+                      "SORT": "3780",
+                      "ACTIVE_TO": "31.12.2020 23:59:00",
+                      "ACTIVE_FROM": "17.07.2018 06:41:00",
+                      "DETAIL_LINK": "/other-mobile-accessories/mobile_phone_3d_video_amplifier_enlarged_screen_magnifier_f1/dp-516398/",
+                      "MAX_QUANTITY": null,
+                      "IMAGE": {
+                      "ID": "338244",
+                      "SRC": "https://m4.awokcdn.com/upload/resize_cache/iblock/11d/250_250_1/11d56f0eb9738ce371e5e6e11e4aa7fd.png",
+                      "WIDTH": 800,
+                      "HEIGHT": 800
+                      },
+                      "PRICES": {
+                      "PRICE_NEW": 12,
+                      "PRICE_OLD": 99,
+                      "DISCOUNT": 87,
+                      "PERCENT": 88,
+                      "TIMER": {},
+                      "END_TIME": {}
+                      },
+                      "STATE": "ACTIVE",
+                      "ENABLE_TIMER": "Y",
+                      "SOLD_OUT": null,
+                      "SHOW_DISCOUNT": "Y",
+                      "SHOW_NEXT_TIMER": null,
+                      "ANALYTICS": false,
+                      "STOCK_DATA": false,
+                      "CART_DATA": {
+                      "SKU": "516398",
+                      "UID": "18075b4f931a3c3b2",
+                      "SSID": "303d6e04dbe773450da2f2dc91567bda"
+                      },
+                      "TYPE_PRODUCT": "SP",
+                      "STOCK": "Y",
+                      "EXPIRED": "N",
+                      "ACTIVE": "Y",
+                      "CATEGORY_ID": ""
+                      },
+                      {
+                      "ID": "1315645",
+                      "LINKED_PROD_ID": "1315645",
+                      "NAME": "LG G4, 32GB, 4G LTE, Gold - Refurbished",
+                      "SORT": "3780",
+                      "ACTIVE_TO": "31.12.2020 23:59:59",
+                      "ACTIVE_FROM": "18.07.2018 06:59:00",
+                      "DETAIL_LINK": "/mobile-phones/lg_g4_32gb_4g_lte_gold_refurbished/dp-1315645/",
+                      "MAX_QUANTITY": null,
+                      "IMAGE": {
+                      "ID": "451496",
+                      "SRC": "https://m4.awokcdn.com/upload/resize_cache/iblock/7f0/250_250_1/7f0d44ebafec9aeb428bbf2a2ab91f11.jpg",
+                      "WIDTH": 250,
+                      "HEIGHT": 250
+                      },
+                      "PRICES": {
+                      "PRICE_NEW": 379,
+                      "PRICE_OLD": 2699,
+                      "DISCOUNT": 2320,
+                      "PERCENT": 86,
+                      "TIMER": {},
+                      "END_TIME": {}
+                      },
+                      "STATE": "ACTIVE",
+                      "ENABLE_TIMER": "Y",
+                      "SOLD_OUT": null,
+                      "SHOW_DISCOUNT": "Y",
+                      "SHOW_NEXT_TIMER": null,
+                      "ANALYTICS": false,
+                      "STOCK_DATA": false,
+                      "CART_DATA": {
+                      "SKU": "1315645",
+                      "UID": "18075b4f931a3d5bb",
+                      "SSID": "60fbf9a608912ed81f5049d41e2db403"
+                      },
+                      "TYPE_PRODUCT": "SP",
+                      "STOCK": "Y",
+                      "EXPIRED": "N",
+                      "ACTIVE": "Y",
+                      "CATEGORY_ID": ""
+                      },
+                      {
+                      "ID": "59765",
+                      "LINKED_PROD_ID": "59765",
+                      "NAME": "Wireless Bluetooth Speaker Pill Shaped With SD, FM Radio & Aux",
+                      "SORT": "3780",
+                      "ACTIVE_TO": "31.12.2020 23:59:59",
+                      "ACTIVE_FROM": "17.07.2018 06:40:00",
+                      "DETAIL_LINK": "/bluetooth-speakers/wireless_bluetooth_speaker_pill_shaped_with_sd_fm_radio_2/dp-59765/",
+                      "MAX_QUANTITY": null,
+                      "IMAGE": {
+                      "ID": "567300",
+                      "SRC": "https://m1.awokcdn.com/upload/resize_cache/iblock/1ef/250_250_1/1ef13b5ca09ea73d4b68706c0fedf143.png",
+                      "WIDTH": 250,
+                      "HEIGHT": 250
+                      },
+                      "PRICES": {
+                      "PRICE_NEW": 19,
+                      "PRICE_OLD": 69,
+                      "DISCOUNT": 50,
+                      "PERCENT": 73,
+                      "TIMER": {},
+                      "END_TIME": {}
+                      },
+                      "STATE": "ACTIVE",
+                      "ENABLE_TIMER": "Y",
+                      "SOLD_OUT": null,
+                      "SHOW_DISCOUNT": "Y",
+                      "SHOW_NEXT_TIMER": null,
+                      "ANALYTICS": false,
+                      "STOCK_DATA": false,
+                      "CART_DATA": {
+                      "SKU": "59765",
+                      "UID": "18075b4f931a3e3d6",
+                      "SSID": "f1e781df67d6451de191863398015574"
+                      },
+                      "TYPE_PRODUCT": "SP",
+                      "STOCK": "Y",
+                      "EXPIRED": "N",
+                      "ACTIVE": "Y",
+                      "CATEGORY_ID": ""
+                      },
+                      {
+                      "ID": "1407630",
+                      "LINKED_PROD_ID": "1407630",
+                      "NAME": "Battery Operated 5 In 1 Wireless Nail Grooming Kit, FF6040C",
+                      "SORT": "3775",
+                      "ACTIVE_TO": "31.12.2020 23:59:00",
+                      "ACTIVE_FROM": "18.07.2018 10:55:00",
+                      "DETAIL_LINK": "/cosmetics/battery_operated_5_in_1_wireless_nail_grooming_kit_ff6040c/dp-1407630/",
+                      "MAX_QUANTITY": null,
+                      "IMAGE": {
+                      "ID": "1262650",
+                      "SRC": "https://m1.awokcdn.com/upload/resize_cache/iblock/3e1/250_250_1/3e16f825b707d8932ac800822b10de2e.png",
+                      "WIDTH": 250,
+                      "HEIGHT": 250
+                      },
+                      "PRICES": {
+                      "PRICE_NEW": 15,
+                      "PRICE_OLD": 29,
+                      "DISCOUNT": 14,
+                      "PERCENT": 49,
+                      "TIMER": {},
+                      "END_TIME": {}
+                      },
+                      "STATE": "ACTIVE",
+                      "ENABLE_TIMER": "Y",
+                      "SOLD_OUT": null,
+                      "SHOW_DISCOUNT": "Y",
+                      "SHOW_NEXT_TIMER": null,
+                      "ANALYTICS": false,
+                      "STOCK_DATA": false,
+                      "CART_DATA": {
+                      "SKU": "1407630",
+                      "UID": "18075b4f931a3f348",
+                      "SSID": "74cb268bd247c8da33bdd162ba78ed7a"
+                      },
+                      "TYPE_PRODUCT": "SP",
+                      "STOCK": "Y",
+                      "EXPIRED": "N",
+                      "ACTIVE": "Y",
+                      "CATEGORY_ID": ""
+                      },
+                      {
+                      "ID": "1405107",
+                      "LINKED_PROD_ID": "1405107",
+                      "NAME": "Dr. Rashel Beard Oil With Argan Oil + Vitamin E For Men 50ML, DRL-1409",
+                      "SORT": "3775",
+                      "ACTIVE_TO": "31.12.2020 23:59:00",
+                      "ACTIVE_FROM": "16.07.2018 07:31:00",
+                      "DETAIL_LINK": "/hair-care/dr_rashel_beard_oil_with_argan_oil_vitamin_e_for_men_50ml_drl_1409_2/dp-1405107/",
+                      "MAX_QUANTITY": null,
+                      "IMAGE": {
+                      "ID": "1245430",
+                      "SRC": "https://m2.awokcdn.com/upload/resize_cache/iblock/8fd/250_250_1/8fdc221279995bc1e37ac70b346bf5c0.jpg",
+                      "WIDTH": 250,
+                      "HEIGHT": 250
+                      },
+                      "PRICES": {
+                      "PRICE_NEW": 9,
+                      "PRICE_OLD": 23,
+                      "DISCOUNT": 14,
+                      "PERCENT": 61,
+                      "TIMER": {},
+                      "END_TIME": {}
+                      },
+                      "STATE": "ACTIVE",
+                      "ENABLE_TIMER": "Y",
+                      "SOLD_OUT": null,
+                      "SHOW_DISCOUNT": "Y",
+                      "SHOW_NEXT_TIMER": null,
+                      "ANALYTICS": false,
+                      "STOCK_DATA": false,
+                      "CART_DATA": {
+                      "SKU": "1405107",
+                      "UID": "18075b4f931a403fd",
+                      "SSID": "dd45caea0da67b819a26ea38417def75"
+                      },
+                      "TYPE_PRODUCT": "SP",
+                      "STOCK": "Y",
+                      "EXPIRED": "N",
+                      "ACTIVE": "Y",
+                      "CATEGORY_ID": ""
+                      },
+                      {
+                      "ID": "1356905",
+                      "LINKED_PROD_ID": "1356905",
+                      "NAME": "ZEPHYR Classy Crystal Hour Marks Swirl Dial Design Analog Leather Band Watch for Women, 8561L, Brown Silver",
+                      "SORT": "3775",
+                      "ACTIVE_TO": "31.12.2020 23:59:00",
+                      "ACTIVE_FROM": "18.07.2018 07:46:00",
+                      "DETAIL_LINK": "/watches/zephyr_classy_crystal_hour_marks_swirl_dial_design_analog_leather_band_watch_for_women_8561l_brow/dp-1356905/",
+                      "MAX_QUANTITY": null,
+                      "IMAGE": {
+                      "ID": "922227",
+                      "SRC": "https://m1.awokcdn.com/upload/resize_cache/iblock/e71/250_250_1/e71f3646ac586332d6a53eb0801d7f49.png",
+                      "WIDTH": 250,
+                      "HEIGHT": 250
+                      },
+                      "PRICES": {
+                      "PRICE_NEW": 19,
+                      "PRICE_OLD": 149,
+                      "DISCOUNT": 130,
+                      "PERCENT": 88,
+                      "TIMER": {},
+                      "END_TIME": {}
+                      },
+                      "STATE": "ACTIVE",
+                      "ENABLE_TIMER": "Y",
+                      "SOLD_OUT": null,
+                      "SHOW_DISCOUNT": "Y",
+                      "SHOW_NEXT_TIMER": null,
+                      "ANALYTICS": false,
+                      "STOCK_DATA": false,
+                      "CART_DATA": {
+                      "SKU": "1356905",
+                      "UID": "18075b4f931a413d8",
+                      "SSID": "682ece1e02d2a0b2600108ee6ef15c30"
+                      },
+                      "TYPE_PRODUCT": "SP",
+                      "STOCK": "Y",
+                      "EXPIRED": "N",
+                      "ACTIVE": "Y",
+                      "CATEGORY_ID": ""
+                      },
+                      {
+                      "ID": "1370729",
+                      "LINKED_PROD_ID": "1370729",
+                      "NAME": "Easy Refill Travel Perfume Atomizer Bottle, Multi-Color",
+                      "SORT": "3775",
+                      "ACTIVE_TO": "31.12.2020 23:59:00",
+                      "ACTIVE_FROM": "18.07.2018 06:56:00",
+                      "DETAIL_LINK": "/perfumes/easy_refill_travel_perfume_atomizer_bottle_multi_color/dp-1370729/",
+                      "MAX_QUANTITY": null,
+                      "IMAGE": {
+                      "ID": "864675",
+                      "SRC": "https://m4.awokcdn.com/upload/resize_cache/iblock/fc3/250_250_1/fc38f90c606080915340d81d41b8cae2.png",
+                      "WIDTH": 250,
+                      "HEIGHT": 250
+                      },
+                      "PRICES": {
+                      "PRICE_NEW": 15,
+                      "PRICE_OLD": 28,
+                      "DISCOUNT": 13,
+                      "PERCENT": 47,
+                      "TIMER": {},
+                      "END_TIME": {}
+                      },
+                      "STATE": "ACTIVE",
+                      "ENABLE_TIMER": "Y",
+                      "SOLD_OUT": null,
+                      "SHOW_DISCOUNT": "Y",
+                      "SHOW_NEXT_TIMER": null,
+                      "ANALYTICS": false,
+                      "STOCK_DATA": false,
+                      "CART_DATA": {
+                      "SKU": "1370729",
+                      "UID": "18075b4f931a422e7",
+                      "SSID": "2df835de072226ae50a3d91c0e2e1803"
+                      },
+                      "TYPE_PRODUCT": "SP",
+                      "STOCK": "Y",
+                      "EXPIRED": "N",
+                      "ACTIVE": "Y",
+                      "CATEGORY_ID": ""
+                      },
+                      {
+                      "ID": "1336072",
+                      "LINKED_PROD_ID": "1336072",
+                      "NAME": "Apple iPhone 5C 16GB, White - Refurbished",
+                      "SORT": "3775",
+                      "ACTIVE_TO": "31.12.2020 23:59:59",
+                      "ACTIVE_FROM": "17.07.2018 06:47:00",
+                      "DETAIL_LINK": "/mobile-phones/apple_iphone_5c_16gb_white_refurbished_2/dp-1336072/",
+                      "MAX_QUANTITY": null,
+                      "IMAGE": {
+                      "ID": "614700",
+                      "SRC": "https://m1.awokcdn.com/upload/resize_cache/iblock/584/250_250_1/584d5cd737bc442bc911275d7bd9e7aa.png",
+                      "WIDTH": 250,
+                      "HEIGHT": 250
+                      },
+                      "PRICES": {
+                      "PRICE_NEW": 399,
+                      "PRICE_OLD": 1040,
+                      "DISCOUNT": 641,
+                      "PERCENT": 62,
+                      "TIMER": {},
+                      "END_TIME": {}
+                      },
+                      "STATE": "ACTIVE",
+                      "ENABLE_TIMER": "Y",
+                      "SOLD_OUT": null,
+                      "SHOW_DISCOUNT": "Y",
+                      "SHOW_NEXT_TIMER": null,
+                      "ANALYTICS": false,
+                      "STOCK_DATA": false,
+                      "CART_DATA": {
+                      "SKU": "1336072",
+                      "UID": "18075b4f931a43260",
+                      "SSID": "78020bd336e454ec8069df8bb29c5968"
+                      },
+                      "TYPE_PRODUCT": "SP",
+                      "STOCK": "Y",
+                      "EXPIRED": "N",
+                      "ACTIVE": "Y",
+                      "CATEGORY_ID": ""
+                      },
+                      {
+                      "ID": "1289354",
+                      "LINKED_PROD_ID": "1289354",
+                      "NAME": "Comfort Fabric Conditioner Pure 2L",
+                      "SORT": "3775",
+                      "ACTIVE_TO": "31.12.2020 23:59:59",
+                      "ACTIVE_FROM": "18.07.2018 07:21:00",
+                      "DETAIL_LINK": "/health-and-beauty/comfort_fabric_conditioner_pure_2l_2/dp-1289354/",
+                      "MAX_QUANTITY": null,
+                      "IMAGE": {
+                      "ID": "289165",
+                      "SRC": "https://m1.awokcdn.com/upload/resize_cache/iblock/6a3/250_250_1/6a34137347933fbfb09c9fb45e318b4d.png",
+                      "WIDTH": 250,
+                      "HEIGHT": 250
+                      },
+                      "PRICES": {
+                      "PRICE_NEW": 12,
+                      "PRICE_OLD": 22,
+                      "DISCOUNT": 10,
+                      "PERCENT": 46,
+                      "TIMER": {},
+                      "END_TIME": {}
+                      },
+                      "STATE": "ACTIVE",
+                      "ENABLE_TIMER": "Y",
+                      "SOLD_OUT": null,
+                      "SHOW_DISCOUNT": "Y",
+                      "SHOW_NEXT_TIMER": null,
+                      "ANALYTICS": false,
+                      "STOCK_DATA": false,
+                      "CART_DATA": {
+                      "SKU": "1289354",
+                      "UID": "18075b4f931a4438d",
+                      "SSID": "b050fe46c7b47b39bb784570f18f4f55"
+                      },
+                      "TYPE_PRODUCT": "SP",
+                      "STOCK": "Y",
+                      "EXPIRED": "N",
+                      "ACTIVE": "Y",
+                      "CATEGORY_ID": ""
+                      },
+                      {
+                      "ID": "1334387",
+                      "LINKED_PROD_ID": "1334387",
+                      "NAME": "Quartz Fashionable Shimmery Crystal Studded Bezel Flower Design Bangle Analog Stainless Steel Watch For Women, CH987, Gold",
+                      "SORT": "3774",
+                      "ACTIVE_TO": "31.12.2020 23:59:59",
+                      "ACTIVE_FROM": "18.07.2018 13:48:00",
+                      "DETAIL_LINK": "/watches/quartz_fashionable_shimmery_crystal_studded_bezel_flower_design_bangle_analog_stainless_steel_watch_/dp-1334387/",
+                      "MAX_QUANTITY": null,
+                      "IMAGE": {
+                      "ID": "682719",
+                      "SRC": "https://m4.awokcdn.com/upload/resize_cache/iblock/3e2/250_250_1/3e20bc3d542a96b62c293ec50cb08293.png",
+                      "WIDTH": 250,
+                      "HEIGHT": 250
+                      },
+                      "PRICES": {
+                      "PRICE_NEW": 19,
+                      "PRICE_OLD": 129,
+                      "DISCOUNT": 110,
+                      "PERCENT": 86,
+                      "TIMER": {},
+                      "END_TIME": {}
+                      },
+                      "STATE": "ACTIVE",
+                      "ENABLE_TIMER": "Y",
+                      "SOLD_OUT": null,
+                      "SHOW_DISCOUNT": "Y",
+                      "SHOW_NEXT_TIMER": null,
+                      "ANALYTICS": false,
+                      "STOCK_DATA": false,
+                      "CART_DATA": {
+                      "SKU": "1334387",
+                      "UID": "18075b4f931a451ce",
+                      "SSID": "8b1f4ccb536d4e9152c581f2fef6d904"
+                      },
+                      "TYPE_PRODUCT": "SP",
+                      "STOCK": "Y",
+                      "EXPIRED": "N",
+                      "ACTIVE": "Y",
+                      "CATEGORY_ID": ""
+                      },
+                      {
+                      "ID": "1409221",
+                      "LINKED_PROD_ID": "1409221",
+                      "NAME": "Disney Pixar's Cars Alarm Clock & Digital Watch Gift Set",
+                      "SORT": "3770",
+                      "ACTIVE_TO": "31.12.2020 23:59:00",
+                      "ACTIVE_FROM": "18.07.2018 09:19:00",
+                      "DETAIL_LINK": "/toys/disney_pixar_s_cars_alarm_clock_digital_watch_gift_set_dna/dp-1409221/",
+                      "MAX_QUANTITY": null,
+                      "IMAGE": {
+                      "ID": "1264045",
+                      "SRC": "https://m4.awokcdn.com/upload/resize_cache/iblock/1e2/250_250_1/1e2b10f86bbe0c46d0fe90a6a4f990b1.png",
+                      "WIDTH": 250,
+                      "HEIGHT": 250
+                      },
+                      "PRICES": {
+                      "PRICE_NEW": 9,
+                      "PRICE_OLD": 49,
+                      "DISCOUNT": 40,
+                      "PERCENT": 82,
+                      "TIMER": {},
+                      "END_TIME": {}
+                      },
+                      "STATE": "ACTIVE",
+                      "ENABLE_TIMER": "Y",
+                      "SOLD_OUT": null,
+                      "SHOW_DISCOUNT": "Y",
+                      "SHOW_NEXT_TIMER": null,
+                      "ANALYTICS": false,
+                      "STOCK_DATA": false,
+                      "CART_DATA": {
+                      "SKU": "1409221",
+                      "UID": "18075b4f931a45f9c",
+                      "SSID": "0601eb69156e0e5cf70bd0b4fa15ff25"
+                      },
+                      "TYPE_PRODUCT": "SP",
+                      "STOCK": "Y",
+                      "EXPIRED": "N",
+                      "ACTIVE": "Y",
+                      "CATEGORY_ID": ""
+                      },
+                      {
+                      "ID": "1405283",
+                      "LINKED_PROD_ID": "1405283",
+                      "NAME": "100 Pcs Colorful Wooden Domino 3+ Ages, AT-204-018",
+                      "SORT": "3770",
+                      "ACTIVE_TO": "31.12.2020 23:59:00",
+                      "ACTIVE_FROM": "17.07.2018 07:05:00",
+                      "DETAIL_LINK": "/maths-puzzles/100_pcs_colorful_wooden_domino_3_ages_at_204_018/dp-1405283/",
+                      "MAX_QUANTITY": null,
+                      "IMAGE": {
+                      "ID": "1262903",
+                      "SRC": "https://m4.awokcdn.com/upload/resize_cache/iblock/418/250_250_1/41839fec6d0517096e780198ccccefce.png",
+                      "WIDTH": 250,
+                      "HEIGHT": 250
+                      },
+                      "PRICES": {
+                      "PRICE_NEW": 15,
+                      "PRICE_OLD": 50,
+                      "DISCOUNT": 35,
+                      "PERCENT": 70,
+                      "TIMER": {},
+                      "END_TIME": {}
+                      },
+                      "STATE": "ACTIVE",
+                      "ENABLE_TIMER": "Y",
+                      "SOLD_OUT": null,
+                      "SHOW_DISCOUNT": "Y",
+                      "SHOW_NEXT_TIMER": null,
+                      "ANALYTICS": false,
+                      "STOCK_DATA": false,
+                      "CART_DATA": {
+                      "SKU": "1405283",
+                      "UID": "18075b4f931a46eaa",
+                      "SSID": "759feca5d4fb9f0f6be9ca86a29c63b5"
+                      },
+                      "TYPE_PRODUCT": "SP",
+                      "STOCK": "Y",
+                      "EXPIRED": "N",
+                      "ACTIVE": "Y",
+                      "CATEGORY_ID": ""
+                      },
+                      {
+                      "ID": "1388736",
+                      "LINKED_PROD_ID": "1388736",
+                      "NAME": "Super Elastic Bunion Sleeve Protector Prevent Hallux Valgus Injury - Foot Caring Toe Corrector Health Care 1 Pair",
+                      "SORT": "3770",
+                      "ACTIVE_TO": "31.12.2020 23:59:00",
+                      "ACTIVE_FROM": "16.07.2018 07:00:00",
+                      "DETAIL_LINK": "/exercise-fitness-equipments/super_elastic_bunion_sleeve_protector_prevent_hallux_valgus_injury_foot_caring_toe_corrector_heal_2/dp-1388736/",
+                      "MAX_QUANTITY": null,
+                      "IMAGE": {
+                      "ID": "1245666",
+                      "SRC": "https://m2.awokcdn.com/upload/resize_cache/iblock/572/250_250_1/572b859e990628cf2713e3843c9d002c.png",
+                      "WIDTH": 250,
+                      "HEIGHT": 250
+                      },
+                      "PRICES": {
+                      "PRICE_NEW": 12,
+                      "PRICE_OLD": 39,
+                      "DISCOUNT": 27,
+                      "PERCENT": 70,
+                      "TIMER": {},
+                      "END_TIME": {}
+                      },
+                      "STATE": "ACTIVE",
+                      "ENABLE_TIMER": "Y",
+                      "SOLD_OUT": null,
+                      "SHOW_DISCOUNT": "Y",
+                      "SHOW_NEXT_TIMER": null,
+                      "ANALYTICS": false,
+                      "STOCK_DATA": false,
+                      "CART_DATA": {
+                      "SKU": "1388736",
+                      "UID": "18075b4f931a47e60",
+                      "SSID": "705e1ff60c77e3326c9b2ae57591cc9b"
+                      },
+                      "TYPE_PRODUCT": "SP",
+                      "STOCK": "Y",
+                      "EXPIRED": "N",
+                      "ACTIVE": "Y",
+                      "CATEGORY_ID": ""
+                      },
+                      {
+                      "ID": "1334486",
+                      "LINKED_PROD_ID": "1334486",
+                      "NAME": "Sony Xperia Z3 Compact D5803, 16GB, 4G LTE, Black - Refurbished",
+                      "SORT": "3770",
+                      "ACTIVE_TO": "31.12.2020 23:59:59",
+                      "ACTIVE_FROM": "18.07.2018 09:01:00",
+                      "DETAIL_LINK": "/mobile-phones/sony_xperia_z3_compact_d5803_16gb_4g_lte_black_refurbished/dp-1334486/",
+                      "MAX_QUANTITY": null,
+                      "IMAGE": {
+                      "ID": "605799",
+                      "SRC": "https://m1.awokcdn.com/upload/resize_cache/iblock/4fa/250_250_1/4fa3447d67ade9050cd24baf89130f14.png",
+                      "WIDTH": 250,
+                      "HEIGHT": 250
+                      },
+                      "PRICES": {
+                      "PRICE_NEW": 299,
+                      "PRICE_OLD": 1150,
+                      "DISCOUNT": 851,
+                      "PERCENT": 74,
+                      "TIMER": {},
+                      "END_TIME": {}
+                      },
+                      "STATE": "ACTIVE",
+                      "ENABLE_TIMER": "Y",
+                      "SOLD_OUT": null,
+                      "SHOW_DISCOUNT": "Y",
+                      "SHOW_NEXT_TIMER": null,
+                      "ANALYTICS": false,
+                      "STOCK_DATA": false,
+                      "CART_DATA": {
+                      "SKU": "1334486",
+                      "UID": "18075b4f931a48f6e",
+                      "SSID": "1ad75422f38334ccb2c5c019ebf5492a"
+                      },
+                      "TYPE_PRODUCT": "SP",
+                      "STOCK": "Y",
+                      "EXPIRED": "N",
+                      "ACTIVE": "Y",
+                      "CATEGORY_ID": ""
+                      },
+                      {
+                      "ID": "1400948",
+                      "LINKED_PROD_ID": "1400948",
+                      "NAME": "Always Diamond Ultra Sanitary Napkin 8 Pcs Pack",
+                      "SORT": "3770",
+                      "ACTIVE_TO": "31.12.2020 23:59:00",
+                      "ACTIVE_FROM": "18.07.2018 15:45:00",
+                      "DETAIL_LINK": "/healthcare/always_diamond_ultra_sanitary_napkin_8_pcs_pack_2/dp-1400948/",
+                      "MAX_QUANTITY": null,
+                      "IMAGE": {
+                      "ID": "1155155",
+                      "SRC": "https://m1.awokcdn.com/upload/resize_cache/iblock/de5/250_250_1/de52cf9c9bd43aeb099694bbb3da7696.png",
+                      "WIDTH": 250,
+                      "HEIGHT": 250
+                      },
+                      "PRICES": {
+                      "PRICE_NEW": 5,
+                      "PRICE_OLD": 12,
+                      "DISCOUNT": 7,
+                      "PERCENT": 59,
+                      "TIMER": {},
+                      "END_TIME": {}
+                      },
+                      "STATE": "ACTIVE",
+                      "ENABLE_TIMER": "Y",
+                      "SOLD_OUT": null,
+                      "SHOW_DISCOUNT": "Y",
+                      "SHOW_NEXT_TIMER": null,
+                      "ANALYTICS": false,
+                      "STOCK_DATA": false,
+                      "CART_DATA": {
+                      "SKU": "1400948",
+                      "UID": "18075b4f931a49cdb",
+                      "SSID": "99cc1ba87c3441004243f98445d7ddc2"
+                      },
+                      "TYPE_PRODUCT": "SP",
+                      "STOCK": "Y",
+                      "EXPIRED": "N",
+                      "ACTIVE": "Y",
+                      "CATEGORY_ID": ""
+                      },
+                      {
+                      "ID": "1379962",
+                      "LINKED_PROD_ID": "1379962",
+                      "NAME": "Eurosonic 2 In 1 Blender With Dry Mill 600 Watts, ES-828",
+                      "SORT": "3770",
+                      "ACTIVE_TO": "31.12.2020 23:59:59",
+                      "ACTIVE_FROM": "18.07.2018 07:32:00",
+                      "DETAIL_LINK": "/Blenders/eurosonic_2_in_1_blender_with_dry_mill_600_watts_es_828/dp-1379962/",
+                      "MAX_QUANTITY": null,
+                      "IMAGE": {
+                      "ID": "949684",
+                      "SRC": "https://m1.awokcdn.com/upload/resize_cache/iblock/248/250_250_1/248a90db8c5834cb81acbbd8e7b621b3.png",
+                      "WIDTH": 250,
+                      "HEIGHT": 250
+                      },
+                      "PRICES": {
+                      "PRICE_NEW": 39,
+                      "PRICE_OLD": 119,
+                      "DISCOUNT": 80,
+                      "PERCENT": 68,
+                      "TIMER": {},
+                      "END_TIME": {}
+                      },
+                      "STATE": "ACTIVE",
+                      "ENABLE_TIMER": "Y",
+                      "SOLD_OUT": null,
+                      "SHOW_DISCOUNT": "Y",
+                      "SHOW_NEXT_TIMER": null,
+                      "ANALYTICS": false,
+                      "STOCK_DATA": false,
+                      "CART_DATA": {
+                      "SKU": "1379962",
+                      "UID": "18075b4f931a4ab4f",
+                      "SSID": "5e2d0be7ad44d6cc9629e0a1667eb0f6"
+                      },
+                      "TYPE_PRODUCT": "SP",
+                      "STOCK": "Y",
+                      "EXPIRED": "N",
+                      "ACTIVE": "Y",
+                      "CATEGORY_ID": ""
+                      },
+                      {
+                      "ID": "1356912",
+                      "LINKED_PROD_ID": "1356912",
+                      "NAME": "ZEPHYR Stylish Crystal & Roman Numeral Hour Marks Analog Textured Leather Band Watch for Men, 8562G, Black",
+                      "SORT": "3770",
+                      "ACTIVE_TO": "31.12.2020 23:59:59",
+                      "ACTIVE_FROM": "18.07.2018 07:59:00",
+                      "DETAIL_LINK": "/watches/zephyr_stylish_crystal_roman_numeral_hour_marks_analog_textured_leather_band_watch_for_men_8562g__2/dp-1356912/",
+                      "MAX_QUANTITY": null,
+                      "IMAGE": {
+                      "ID": "895176",
+                      "SRC": "https://m2.awokcdn.com/upload/resize_cache/iblock/86d/250_250_1/86d6ee77478ba9ad6b65381fa6df7e72.png",
+                      "WIDTH": 250,
+                      "HEIGHT": 250
+                      },
+                      "PRICES": {
+                      "PRICE_NEW": 19,
+                      "PRICE_OLD": 149,
+                      "DISCOUNT": 130,
+                      "PERCENT": 88,
+                      "TIMER": {},
+                      "END_TIME": {}
+                      },
+                      "STATE": "ACTIVE",
+                      "ENABLE_TIMER": "Y",
+                      "SOLD_OUT": null,
+                      "SHOW_DISCOUNT": "Y",
+                      "SHOW_NEXT_TIMER": null,
+                      "ANALYTICS": false,
+                      "STOCK_DATA": false,
+                      "CART_DATA": {
+                      "SKU": "1356912",
+                      "UID": "18075b4f931a4bb4e",
+                      "SSID": "b21719a70c8e1278dadc33fa7e862b1d"
+                      },
+                      "TYPE_PRODUCT": "SP",
+                      "STOCK": "Y",
+                      "EXPIRED": "N",
+                      "ACTIVE": "Y",
+                      "CATEGORY_ID": ""
+                      },
+                      {
+                      "ID": "1280900",
+                      "LINKED_PROD_ID": "1280900",
+                      "NAME": "MTV Sport Sunglasses, CL-5250B",
+                      "SORT": "3770",
+                      "ACTIVE_TO": "31.12.2020 23:59:59",
+                      "ACTIVE_FROM": "17.07.2018 07:18:00",
+                      "DETAIL_LINK": "/sunglasses/mtv_sport_sunglasses_cl_5250b/dp-1280900/",
+                      "MAX_QUANTITY": null,
+                      "IMAGE": {
+                      "ID": "559807",
+                      "SRC": "https://m1.awokcdn.com/upload/resize_cache/iblock/684/250_250_1/684effcba4d09dff8ad5a9a164afd916.png",
+                      "WIDTH": 250,
+                      "HEIGHT": 250
+                      },
+                      "PRICES": {
+                      "PRICE_NEW": 5,
+                      "PRICE_OLD": 80,
+                      "DISCOUNT": 75,
+                      "PERCENT": 94,
+                      "TIMER": {},
+                      "END_TIME": {}
+                      },
+                      "STATE": "ACTIVE",
+                      "ENABLE_TIMER": "Y",
+                      "SOLD_OUT": null,
+                      "SHOW_DISCOUNT": "Y",
+                      "SHOW_NEXT_TIMER": null,
+                      "ANALYTICS": false,
+                      "STOCK_DATA": false,
+                      "CART_DATA": {
+                      "SKU": "1280900",
+                      "UID": "18075b4f931a4c92b",
+                      "SSID": "d65e6a79ffa0149f6fc8243b71668837"
+                      },
+                      "TYPE_PRODUCT": "SP",
+                      "STOCK": "Y",
+                      "EXPIRED": "N",
+                      "ACTIVE": "Y",
+                      "CATEGORY_ID": ""
+                      },
+                      {
+                      "ID": "1367865",
+                      "LINKED_PROD_ID": "1367865",
+                      "NAME": "UET New Flexible Hanging Neck Lazy Necklace Bracket Smartphone Holder Stand For Mobile, Green",
+                      "SORT": "3770",
+                      "ACTIVE_TO": "31.12.2020 23:59:59",
+                      "ACTIVE_FROM": "18.07.2018 16:23:00",
+                      "DETAIL_LINK": "/other-mobile-accessories/uet_new_flexible_hanging_neck_lazy_necklace_bracket_smartphone_holder_stand_for_mobile_green/dp-1367865/",
+                      "MAX_QUANTITY": null,
+                      "IMAGE": {
+                      "ID": "860672",
+                      "SRC": "https://m2.awokcdn.com/upload/resize_cache/iblock/93f/250_250_1/93fa5398e9251a3b49bb8bb8786ccc5b.png",
+                      "WIDTH": 250,
+                      "HEIGHT": 250
+                      },
+                      "PRICES": {
+                      "PRICE_NEW": 12,
+                      "PRICE_OLD": 79,
+                      "DISCOUNT": 67,
+                      "PERCENT": 85,
+                      "TIMER": {},
+                      "END_TIME": {}
+                      },
+                      "STATE": "ACTIVE",
+                      "ENABLE_TIMER": "Y",
+                      "SOLD_OUT": null,
+                      "SHOW_DISCOUNT": "Y",
+                      "SHOW_NEXT_TIMER": null,
+                      "ANALYTICS": false,
+                      "STOCK_DATA": false,
+                      "CART_DATA": {
+                      "SKU": "1367865",
+                      "UID": "18075b4f931a4d8f4",
+                      "SSID": "2022fb491dcf528f592017a06ed7db5b"
+                      },
+                      "TYPE_PRODUCT": "SP",
+                      "STOCK": "Y",
+                      "EXPIRED": "N",
+                      "ACTIVE": "Y",
+                      "CATEGORY_ID": ""
+                      },
+                      {
+                      "ID": "297022",
+                      "LINKED_PROD_ID": "297022",
+                      "NAME": "Samsung Galaxy S5 G900F, 4G LTE, 16GB, Gold - Refurbished",
+                      "SORT": "3770",
+                      "ACTIVE_TO": "31.12.2020 11:59:59",
+                      "ACTIVE_FROM": "16.07.2018 07:04:00",
+                      "DETAIL_LINK": "/mobile-phones/samsung_galaxy_s5_g900f_4g_lte_16gb_gold_refurbished_2/dp-297022/",
+                      "MAX_QUANTITY": null,
+                      "IMAGE": {
+                      "ID": "478002",
+                      "SRC": "https://m2.awokcdn.com/upload/resize_cache/iblock/278/250_250_1/278b0cc50096d1706f116412c1677cb0.png",
+                      "WIDTH": 250,
+                      "HEIGHT": 250
+                      },
+                      "PRICES": {
+                      "PRICE_NEW": 429,
+                      "PRICE_OLD": 1800,
+                      "DISCOUNT": 1371,
+                      "PERCENT": 77,
+                      "TIMER": {},
+                      "END_TIME": {}
+                      },
+                      "STATE": "ACTIVE",
+                      "ENABLE_TIMER": "Y",
+                      "SOLD_OUT": null,
+                      "SHOW_DISCOUNT": "Y",
+                      "SHOW_NEXT_TIMER": null,
+                      "ANALYTICS": false,
+                      "STOCK_DATA": false,
+                      "CART_DATA": {
+                      "SKU": "297022",
+                      "UID": "18075b4f931a4e6b5",
+                      "SSID": "5560eaa8119d8c35796905d414afe3e7"
+                      },
+                      "TYPE_PRODUCT": "SP",
+                      "STOCK": "Y",
+                      "EXPIRED": "N",
+                      "ACTIVE": "Y",
+                      "CATEGORY_ID": ""
+                      },
+                      {
+                      "ID": "1324397",
+                      "LINKED_PROD_ID": "1324397",
+                      "NAME": "Universal Multi-Color Mini USB RGB Ball Light Support For Karaoke Mic, Laptops, Speakers & Power Adapters",
+                      "SORT": "3770",
+                      "ACTIVE_TO": "31.12.2020 23:59:59",
+                      "ACTIVE_FROM": "18.07.2018 07:41:00",
+                      "DETAIL_LINK": "/other-mobile-accessories/universal_multi_color_mini_usb_rgb_ball_light_support_for_karaoke_mic_laptops_speakers_power_adapter/dp-1324397/",
+                      "MAX_QUANTITY": null,
+                      "IMAGE": {
+                      "ID": "529909",
+                      "SRC": "https://m4.awokcdn.com/upload/resize_cache/iblock/11e/250_250_1/11e72c20bc81d0a31bdea70c6942433e.png",
+                      "WIDTH": 250,
+                      "HEIGHT": 250
+                      },
+                      "PRICES": {
+                      "PRICE_NEW": 12,
+                      "PRICE_OLD": 99,
+                      "DISCOUNT": 87,
+                      "PERCENT": 88,
+                      "TIMER": {},
+                      "END_TIME": {}
+                      },
+                      "STATE": "ACTIVE",
+                      "ENABLE_TIMER": "Y",
+                      "SOLD_OUT": null,
+                      "SHOW_DISCOUNT": "Y",
+                      "SHOW_NEXT_TIMER": null,
+                      "ANALYTICS": false,
+                      "STOCK_DATA": false,
+                      "CART_DATA": {
+                      "SKU": "1324397",
+                      "UID": "18075b4f931a4f456",
+                      "SSID": "fcb05c8b8be34bd3e99cab3f285d9d53"
+                      },
+                      "TYPE_PRODUCT": "SP",
+                      "STOCK": "Y",
+                      "EXPIRED": "N",
+                      "ACTIVE": "Y",
+                      "CATEGORY_ID": ""
+                      },
+                      {
+                      "ID": "1343084",
+                      "LINKED_PROD_ID": "1343084",
+                      "NAME": "Multi-purpose Storage Box Mobile Phone, Navigation skid Holder 155x100x20mm",
+                      "SORT": "3770",
+                      "ACTIVE_TO": "31.12.2020 23:59:00",
+                      "ACTIVE_FROM": "18.07.2018 13:45:00",
+                      "DETAIL_LINK": "/mobile-accessories/multi_purpose_storage_box_mobile_phone_navigation_skid_holder_155x100x20mm__2/dp-1343084/",
+                      "MAX_QUANTITY": null,
+                      "IMAGE": {
+                      "ID": "715594",
+                      "SRC": "https://m4.awokcdn.com/upload/resize_cache/iblock/595/250_250_1/595f9b084ef3e63b1bfe7a50dc8f51ef.png",
+                      "WIDTH": 250,
+                      "HEIGHT": 250
+                      },
+                      "PRICES": {
+                      "PRICE_NEW": 9,
+                      "PRICE_OLD": 29,
+                      "DISCOUNT": 20,
+                      "PERCENT": 69,
+                      "TIMER": {},
+                      "END_TIME": {}
+                      },
+                      "STATE": "ACTIVE",
+                      "ENABLE_TIMER": "Y",
+                      "SOLD_OUT": null,
+                      "SHOW_DISCOUNT": "Y",
+                      "SHOW_NEXT_TIMER": null,
+                      "ANALYTICS": false,
+                      "STOCK_DATA": false,
+                      "CART_DATA": {
+                      "SKU": "1343084",
+                      "UID": "18075b4f931a50319",
+                      "SSID": "f292f3df84475a20ef3c21b762dea5d3"
+                      },
+                      "TYPE_PRODUCT": "SP",
+                      "STOCK": "Y",
+                      "EXPIRED": "N",
+                      "ACTIVE": "Y",
+                      "CATEGORY_ID": ""
+                      },
+                      {
+                      "ID": "1329303",
+                      "LINKED_PROD_ID": "1329303",
+                      "NAME": "MQ Multi-Color 3In1 Fast Charging 2A Max Metal Magnetic Cable Charging Cable For Micro USB, Type-C Android & Lightning iOS Devices",
+                      "SORT": "3770",
+                      "ACTIVE_TO": "31.12.2020 23:59:59",
+                      "ACTIVE_FROM": "18.07.2018 07:46:00",
+                      "DETAIL_LINK": "/mobile-cables-connectors/mq_multi_color_3in1_fast_charging_2a_max_metal_magnetic_cable_charging_cable_for_micro_usb_type_c_2/dp-1329303/",
+                      "MAX_QUANTITY": null,
+                      "IMAGE": {
+                      "ID": "639953",
+                      "SRC": "https://m2.awokcdn.com/upload/resize_cache/iblock/9bc/250_250_1/9bc32b908728576ec36293af9664135b.png",
+                      "WIDTH": 250,
+                      "HEIGHT": 250
+                      },
+                      "PRICES": {
+                      "PRICE_NEW": 25,
+                      "PRICE_OLD": 99,
+                      "DISCOUNT": 74,
+                      "PERCENT": 75,
+                      "TIMER": {},
+                      "END_TIME": {}
+                      },
+                      "STATE": "ACTIVE",
+                      "ENABLE_TIMER": "Y",
+                      "SOLD_OUT": null,
+                      "SHOW_DISCOUNT": "Y",
+                      "SHOW_NEXT_TIMER": null,
+                      "ANALYTICS": false,
+                      "STOCK_DATA": false,
+                      "CART_DATA": {
+                      "SKU": "1329303",
+                      "UID": "18075b4f931a51131",
+                      "SSID": "83f7a69b8733f38e19627eae17d1ef4a"
+                      },
+                      "TYPE_PRODUCT": "SP",
+                      "STOCK": "Y",
+                      "EXPIRED": "N",
+                      "ACTIVE": "Y",
+                      "CATEGORY_ID": ""
+                      },
+                      {
+                      "ID": "1332249",
+                      "LINKED_PROD_ID": "1332249",
+                      "NAME": "HTC Hot & Cold High Quality Hair Dryer 1800 Watts, HTC-322-HD",
+                      "SORT": "3770",
+                      "ACTIVE_TO": "31.12.2020 23:59:00",
+                      "ACTIVE_FROM": "15.07.2018 09:45:00",
+                      "DETAIL_LINK": "/shavers-trimmers/htc_hot_cold_high_quality_hair_dryer_1800_watts_htc_322_hd/dp-1332249/",
+                      "MAX_QUANTITY": null,
+                      "IMAGE": {
+                      "ID": "592623",
+                      "SRC": "https://m2.awokcdn.com/upload/resize_cache/iblock/488/250_250_1/4880fa1b037ff1bcb17e88db298eb52b.png",
+                      "WIDTH": 250,
+                      "HEIGHT": 250
+                      },
+                      "PRICES": {
+                      "PRICE_NEW": 19,
+                      "PRICE_OLD": 59,
+                      "DISCOUNT": 40,
+                      "PERCENT": 68,
+                      "TIMER": {},
+                      "END_TIME": {}
+                      },
+                      "STATE": "ACTIVE",
+                      "ENABLE_TIMER": "Y",
+                      "SOLD_OUT": null,
+                      "SHOW_DISCOUNT": "Y",
+                      "SHOW_NEXT_TIMER": null,
+                      "ANALYTICS": false,
+                      "STOCK_DATA": false,
+                      "CART_DATA": {
+                      "SKU": "1332249",
+                      "UID": "18075b4f931a52050",
+                      "SSID": "a2db3689496d617072a1d4d2b949ec81"
+                      },
+                      "TYPE_PRODUCT": "SP",
+                      "STOCK": "Y",
+                      "EXPIRED": "N",
+                      "ACTIVE": "Y",
+                      "CATEGORY_ID": ""
+                      },
+                      {
+                      "ID": "1319344",
+                      "LINKED_PROD_ID": "1319344",
+                      "NAME": "Wireless Bluetooth Sports Earphone With Mic & Volume Control (S10), White",
+                      "SORT": "3770",
+                      "ACTIVE_TO": "31.12.2020 23:59:59",
+                      "ACTIVE_FROM": "18.07.2018 07:51:00",
+                      "DETAIL_LINK": "/earphones-headsets/wireless_bluetooth_sports_earphone_with_mic_volume_control_s10_white_2/dp-1319344/",
+                      "MAX_QUANTITY": null,
+                      "IMAGE": {
+                      "ID": "489101",
+                      "SRC": "https://m4.awokcdn.com/upload/resize_cache/iblock/9af/250_250_1/9af04282b8dfc5ab7a96ec06c9fc7fd1.png",
+                      "WIDTH": 250,
+                      "HEIGHT": 250
+                      },
+                      "PRICES": {
+                      "PRICE_NEW": 19,
+                      "PRICE_OLD": 129,
+                      "DISCOUNT": 110,
+                      "PERCENT": 86,
+                      "TIMER": {},
+                      "END_TIME": {}
+                      },
+                      "STATE": "ACTIVE",
+                      "ENABLE_TIMER": "Y",
+                      "SOLD_OUT": null,
+                      "SHOW_DISCOUNT": "Y",
+                      "SHOW_NEXT_TIMER": null,
+                      "ANALYTICS": false,
+                      "STOCK_DATA": false,
+                      "CART_DATA": {
+                      "SKU": "1319344",
+                      "UID": "18075b4f931a5300a",
+                      "SSID": "ceee3e3ed087fa0d10cf2e48adfed769"
+                      },
+                      "TYPE_PRODUCT": "SP",
+                      "STOCK": "Y",
+                      "EXPIRED": "N",
+                      "ACTIVE": "Y",
+                      "CATEGORY_ID": ""
+                      },
+                      {
+                      "ID": "3662",
+                      "LINKED_PROD_ID": "3662",
+                      "NAME": "Apple iPhone 4s 16GB White - Refurbished",
+                      "SORT": "3770",
+                      "ACTIVE_TO": "31.12.2020 23:59:59",
+                      "ACTIVE_FROM": "17.07.2018 06:49:00",
+                      "DETAIL_LINK": "/mobile-phones/apple_iphone_4s_16gb_white_refurbished_2/dp-3662/",
+                      "MAX_QUANTITY": null,
+                      "IMAGE": {
+                      "ID": "426999",
+                      "SRC": "https://m4.awokcdn.com/upload/resize_cache/iblock/69d/250_250_1/69db3b398ef888babe88393755323d91.png",
+                      "WIDTH": 250,
+                      "HEIGHT": 250
+                      },
+                      "PRICES": {
+                      "PRICE_NEW": 299,
+                      "PRICE_OLD": 1749,
+                      "DISCOUNT": 1450,
+                      "PERCENT": 83,
+                      "TIMER": {},
+                      "END_TIME": {}
+                      },
+                      "STATE": "ACTIVE",
+                      "ENABLE_TIMER": "Y",
+                      "SOLD_OUT": null,
+                      "SHOW_DISCOUNT": "Y",
+                      "SHOW_NEXT_TIMER": null,
+                      "ANALYTICS": false,
+                      "STOCK_DATA": false,
+                      "CART_DATA": {
+                      "SKU": "3662",
+                      "UID": "18075b4f931a544af",
+                      "SSID": "9d291e1f35543a0118a069e278a9ebf0"
+                      },
+                      "TYPE_PRODUCT": "SP",
+                      "STOCK": "Y",
+                      "EXPIRED": "N",
+                      "ACTIVE": "Y",
+                      "CATEGORY_ID": ""
+                      },
+                      {
+                      "ID": "1275363",
+                      "LINKED_PROD_ID": "1275363",
+                      "NAME": "White Light Tooth Whitening System",
+                      "SORT": "3770",
+                      "ACTIVE_TO": "31.12.2020 23:59:59",
+                      "ACTIVE_FROM": "04.07.2018 07:52:00",
+                      "DETAIL_LINK": "/healthcare/white_light_tooth_whitening_system_2/dp-1275363/",
+                      "MAX_QUANTITY": null,
+                      "IMAGE": {
+                      "ID": "258203",
+                      "SRC": "https://m1.awokcdn.com/upload/resize_cache/iblock/ec4/250_250_1/ec451aad2d426629c1aeddf4ce18b35c.png",
+                      "WIDTH": 250,
+                      "HEIGHT": 250
+                      },
+                      "PRICES": {
+                      "PRICE_NEW": 12,
+                      "PRICE_OLD": 49,
+                      "DISCOUNT": 37,
+                      "PERCENT": 76,
+                      "TIMER": {},
+                      "END_TIME": {}
+                      },
+                      "STATE": "ACTIVE",
+                      "ENABLE_TIMER": "Y",
+                      "SOLD_OUT": null,
+                      "SHOW_DISCOUNT": "Y",
+                      "SHOW_NEXT_TIMER": null,
+                      "ANALYTICS": false,
+                      "STOCK_DATA": false,
+                      "CART_DATA": {
+                      "SKU": "1275363",
+                      "UID": "18075b4f931a55296",
+                      "SSID": "c12ca90fd1694387046549b032173819"
+                      },
+                      "TYPE_PRODUCT": "SP",
+                      "STOCK": "Y",
+                      "EXPIRED": "N",
+                      "ACTIVE": "Y",
+                      "CATEGORY_ID": ""
+                      },
+                      {
+                      "ID": "1282875",
+                      "LINKED_PROD_ID": "1282875",
+                      "NAME": "Premier Wet & Dry Car Vacuum Cleaner Cum Air Inflator, Blue, VC106",
+                      "SORT": "3770",
+                      "ACTIVE_TO": "31.12.2020 17:04:00",
+                      "ACTIVE_FROM": "18.07.2018 07:51:00",
+                      "DETAIL_LINK": "/automotive/premier_wet_dry_car_vacuum_cleaner_cum_air_inflator_blue_vc106/dp-1282875/",
+                      "MAX_QUANTITY": null,
+                      "IMAGE": {
+                      "ID": "366492",
+                      "SRC": "https://m1.awokcdn.com/upload/resize_cache/iblock/632/250_250_1/63256b419d0b25520c9b9d7d1cdb2d33.png",
+                      "WIDTH": 250,
+                      "HEIGHT": 250
+                      },
+                      "PRICES": {
+                      "PRICE_NEW": 29,
+                      "PRICE_OLD": 49,
+                      "DISCOUNT": 20,
+                      "PERCENT": 41,
+                      "TIMER": {},
+                      "END_TIME": {}
+                      },
+                      "STATE": "ACTIVE",
+                      "ENABLE_TIMER": "Y",
+                      "SOLD_OUT": null,
+                      "SHOW_DISCOUNT": "Y",
+                      "SHOW_NEXT_TIMER": null,
+                      "ANALYTICS": false,
+                      "STOCK_DATA": false,
+                      "CART_DATA": {
+                      "SKU": "1282875",
+                      "UID": "18075b4f931a560be",
+                      "SSID": "59605fdc26b0e20fa63b1afe1adc8f48"
+                      },
+                      "TYPE_PRODUCT": "SP",
+                      "STOCK": "Y",
+                      "EXPIRED": "N",
+                      "ACTIVE": "Y",
+                      "CATEGORY_ID": ""
+                      },
+                      {
+                      "ID": "1305282",
+                      "LINKED_PROD_ID": "1305282",
+                      "NAME": "Learning Computer Multimedia Learning System English Version With Music, GT-0622-3",
+                      "SORT": "3770",
+                      "ACTIVE_TO": "31.12.2020 23:59:00",
+                      "ACTIVE_FROM": "15.07.2018 07:50:00",
+                      "DETAIL_LINK": "/learning-toys/learning_computer_multimedia_learning_system_english_version_with_music_gt_0622_3/dp-1305282/",
+                      "MAX_QUANTITY": null,
+                      "IMAGE": {
+                      "ID": "429819",
+                      "SRC": "https://m4.awokcdn.com/upload/resize_cache/iblock/7ce/250_250_1/7cedf46a9128ebeaa007f0ffeee0b2c5.png",
+                      "WIDTH": 250,
+                      "HEIGHT": 250
+                      },
+                      "PRICES": {
+                      "PRICE_NEW": 19,
+                      "PRICE_OLD": 40,
+                      "DISCOUNT": 21,
+                      "PERCENT": 53,
+                      "TIMER": {},
+                      "END_TIME": {}
+                      },
+                      "STATE": "ACTIVE",
+                      "ENABLE_TIMER": "Y",
+                      "SOLD_OUT": null,
+                      "SHOW_DISCOUNT": "Y",
+                      "SHOW_NEXT_TIMER": null,
+                      "ANALYTICS": false,
+                      "STOCK_DATA": false,
+                      "CART_DATA": {
+                      "SKU": "1305282",
+                      "UID": "18075b4f931a56ea2",
+                      "SSID": "6d9521f4b1f36bfccdeeb554ed6c7ee4"
+                      },
+                      "TYPE_PRODUCT": "SP",
+                      "STOCK": "Y",
+                      "EXPIRED": "N",
+                      "ACTIVE": "Y",
+                      "CATEGORY_ID": ""
+                      },
+                      {
+                      "ID": "1264924",
+                      "LINKED_PROD_ID": "1264924",
+                      "NAME": "Spark S530 Mini Bluetooth Headset With Mic, Black",
+                      "SORT": "3770",
+                      "ACTIVE_TO": "31.12.2020 23:59:59",
+                      "ACTIVE_FROM": "17.07.2018 07:17:00",
+                      "DETAIL_LINK": "/earphones-headsets/spark_s530_mini_bluetooth_headset_with_mic_black/dp-1264924/",
+                      "MAX_QUANTITY": null,
+                      "IMAGE": {
+                      "ID": "477939",
+                      "SRC": "https://m1.awokcdn.com/upload/resize_cache/iblock/4bb/250_250_1/4bb913fd3acc8c8ed658cf9168e708b2.png",
+                      "WIDTH": 250,
+                      "HEIGHT": 250
+                      },
+                      "PRICES": {
+                      "PRICE_NEW": 10,
+                      "PRICE_OLD": 89,
+                      "DISCOUNT": 79,
+                      "PERCENT": 89,
+                      "TIMER": {},
+                      "END_TIME": {}
+                      },
+                      "STATE": "ACTIVE",
+                      "ENABLE_TIMER": "Y",
+                      "SOLD_OUT": null,
+                      "SHOW_DISCOUNT": "Y",
+                      "SHOW_NEXT_TIMER": null,
+                      "ANALYTICS": false,
+                      "STOCK_DATA": false,
+                      "CART_DATA": {
+                      "SKU": "1264924",
+                      "UID": "18075b4f931a57e99",
+                      "SSID": "67e1c8dfd17ff8164588ebcf774cf405"
+                      },
+                      "TYPE_PRODUCT": "SP",
+                      "STOCK": "Y",
+                      "EXPIRED": "N",
+                      "ACTIVE": "Y",
+                      "CATEGORY_ID": ""
+                      },
+                      {
+                      "ID": "1314002",
+                      "LINKED_PROD_ID": "1314002",
+                      "NAME": "Samsung Galaxy J5 J500F, 4G Dual Sim, White - Refurbished...",
+                      "SORT": "3768",
+                      "ACTIVE_TO": "31.12.2020 23:59:59",
+                      "ACTIVE_FROM": "18.07.2018 09:03:00",
+                      "DETAIL_LINK": "/mobile-phones/samsung_galaxy_j5_j500f_4g_dual_sim_white_refurbished_2/dp-1314002/",
+                      "MAX_QUANTITY": null,
+                      "IMAGE": {
+                      "ID": "447786",
+                      "SRC": "https://m4.awokcdn.com/upload/resize_cache/iblock/718/250_250_1/7187987829e9b7cc47a84d9887fc8eb4.png",
+                      "WIDTH": 250,
+                      "HEIGHT": 250
+                      },
+                      "PRICES": {
+                      "PRICE_NEW": 349,
+                      "PRICE_OLD": 899,
+                      "DISCOUNT": 550,
+                      "PERCENT": 62,
+                      "TIMER": {},
+                      "END_TIME": {}
+                      },
+                      "STATE": "ACTIVE",
+                      "ENABLE_TIMER": "Y",
+                      "SOLD_OUT": null,
+                      "SHOW_DISCOUNT": "Y",
+                      "SHOW_NEXT_TIMER": null,
+                      "ANALYTICS": false,
+                      "STOCK_DATA": false,
+                      "CART_DATA": {
+                      "SKU": "1314002",
+                      "UID": "18075b4f931a58c60",
+                      "SSID": "02137b45825c1ab3e6ea7ac2d3d91987"
+                      },
+                      "TYPE_PRODUCT": "SP",
+                      "STOCK": "Y",
+                      "EXPIRED": "N",
+                      "ACTIVE": "Y",
+                      "CATEGORY_ID": ""
+                      },
+                      {
+                      "ID": "1409025",
+                      "LINKED_PROD_ID": "1409025",
+                      "NAME": "Al Fakhr Perfumes Shaikh Al Mashaykh EDP for Unisex, 100ML-AFP",
+                      "SORT": "3765",
+                      "ACTIVE_TO": "31.12.2020 23:59:00",
+                      "ACTIVE_FROM": "18.07.2018 10:25:00",
+                      "DETAIL_LINK": "/perfumes/al_fakhr_perfumes_shaikh_al_mashaykh_edp_for_unisex_100ml_afp/dp-1409025/",
+                      "MAX_QUANTITY": null,
+                      "IMAGE": {
+                      "ID": "1263173",
+                      "SRC": "https://m2.awokcdn.com/upload/resize_cache/iblock/234/250_250_1/234815ccebde1418577940dc5dd73ded.png",
+                      "WIDTH": 250,
+                      "HEIGHT": 250
+                      },
+                      "PRICES": {
+                      "PRICE_NEW": 15,
+                      "PRICE_OLD": 29,
+                      "DISCOUNT": 14,
+                      "PERCENT": 49,
+                      "TIMER": {},
+                      "END_TIME": {}
+                      },
+                      "STATE": "ACTIVE",
+                      "ENABLE_TIMER": "Y",
+                      "SOLD_OUT": null,
+                      "SHOW_DISCOUNT": "Y",
+                      "SHOW_NEXT_TIMER": null,
+                      "ANALYTICS": false,
+                      "STOCK_DATA": false,
+                      "CART_DATA": {
+                      "SKU": "1409025",
+                      "UID": "18075b4f931a59c15",
+                      "SSID": "f7bc460717439542117ec7fe7737b1ee"
+                      },
+                      "TYPE_PRODUCT": "SP",
+                      "STOCK": "Y",
+                      "EXPIRED": "N",
+                      "ACTIVE": "Y",
+                      "CATEGORY_ID": ""
+                      },
+                      {
+                      "ID": "1402036",
+                      "LINKED_PROD_ID": "1402036",
+                      "NAME": "Shantou Round Plastic Food Container With Built-In Steam Vent 4 Pcs Set-C",
+                      "SORT": "3765",
+                      "ACTIVE_TO": "31.12.2020 23:59:00",
+                      "ACTIVE_FROM": "18.07.2018 07:14:00",
+                      "DETAIL_LINK": "/Food-Container/shantou_round_plastic_food_container_with_built_in_steam_vent_4_pcs_set_c/dp-1402036/",
+                      "MAX_QUANTITY": null,
+                      "IMAGE": {
+                      "ID": "1263535",
+                      "SRC": "https://m4.awokcdn.com/upload/resize_cache/iblock/ee2/250_250_1/ee28267f070e0ed590db98d6a98942ef.png",
+                      "WIDTH": 250,
+                      "HEIGHT": 250
+                      },
+                      "PRICES": {
+                      "PRICE_NEW": 15,
+                      "PRICE_OLD": 39,
+                      "DISCOUNT": 24,
+                      "PERCENT": 62,
+                      "TIMER": {},
+                      "END_TIME": {}
+                      },
+                      "STATE": "ACTIVE",
+                      "ENABLE_TIMER": "Y",
+                      "SOLD_OUT": null,
+                      "SHOW_DISCOUNT": "Y",
+                      "SHOW_NEXT_TIMER": null,
+                      "ANALYTICS": false,
+                      "STOCK_DATA": false,
+                      "CART_DATA": {
+                      "SKU": "1402036",
+                      "UID": "18075b4f931a5a87e",
+                      "SSID": "52cf2d542ca2599c057049993388d24e"
+                      },
+                      "TYPE_PRODUCT": "SP",
+                      "STOCK": "Y",
+                      "EXPIRED": "N",
+                      "ACTIVE": "Y",
+                      "CATEGORY_ID": ""
+                      },
+                      {
+                      "ID": "1366151",
+                      "LINKED_PROD_ID": "1366151",
+                      "NAME": "Practical Durable Stainless Steel Watermelon Melon Cantaloupe Cutter Slicer, ZK118200 Assorted Color",
+                      "SORT": "3765",
+                      "ACTIVE_TO": "31.12.2020 23:59:59",
+                      "ACTIVE_FROM": "16.07.2018 09:42:00",
+                      "DETAIL_LINK": "/Kitchen-Ware/practical_durable_stainless_steel_watermelon_melon_cantaloupe_cutter_slicer_zk118200_assorted_col/dp-1366151/",
+                      "MAX_QUANTITY": null,
+                      "IMAGE": {
+                      "ID": "841223",
+                      "SRC": "https://m4.awokcdn.com/upload/resize_cache/iblock/654/250_250_1/654787dfd082fb47aa2facaaa8a4f30c.jpg",
+                      "WIDTH": 250,
+                      "HEIGHT": 250
+                      },
+                      "PRICES": {
+                      "PRICE_NEW": 19,
+                      "PRICE_OLD": 49,
+                      "DISCOUNT": 30,
+                      "PERCENT": 62,
+                      "TIMER": {},
+                      "END_TIME": {}
+                      },
+                      "STATE": "ACTIVE",
+                      "ENABLE_TIMER": "Y",
+                      "SOLD_OUT": null,
+                      "SHOW_DISCOUNT": "Y",
+                      "SHOW_NEXT_TIMER": null,
+                      "ANALYTICS": false,
+                      "STOCK_DATA": false,
+                      "CART_DATA": {
+                      "SKU": "1366151",
+                      "UID": "18075b4f931a5b752",
+                      "SSID": "1f6fe3e179054d85218edc7af93d1f5b"
+                      },
+                      "TYPE_PRODUCT": "SP",
+                      "STOCK": "Y",
+                      "EXPIRED": "N",
+                      "ACTIVE": "Y",
+                      "CATEGORY_ID": ""
+                      }
+                      ],
+            "HEADING": "Seasonal Sale",
+            "TITLE": "Seasonal Sale",
+            "IS_FLASH": true
+        },
+        "NAVIGATION": {
+            "TOTAL": 10959,
+            "COUNT": 40,
+            "PAGE": 1,
+            "MAX_PAGES": 274
+        }
+    }
+}
